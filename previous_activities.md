@@ -1,0 +1,108 @@
+## 学会活動 / Academic Activities
+
+海外 / International activities
+- [COLING2016](http://coling2016.anlp.jp/) Area Co-Chair
+- [EMNLP2015](http://www.emnlp2015.org/) Area Co-Chair
+- [COLING2014](http://www.coling-2014.org/) PC Area Co-Chair
+- [ACL2012](http://aclweb.org/mirror/acl2012/) Faculty Advisor for Student Research Workshop
+- [ACL-HLT2011](http://aclweb.org/mirror/acl2011/) PC Area Co-Chair
+- Editorial Board Member of [Computational Linguistics](http://www.mitpressjournals.org/loi/coli) , 2009/1-2011/12
+- [KRAQ09](http://www.irit.fr/recherches/ILPL/kraq09.html) PC member: ACL-IJCNLP 2009 Workshop on Knowledge and Reasoning for Answering Questions<
+- [ISUC2009](http://www.cl.ecei.tohoku.ac.jp/~inui/PC.html) Program Co-chair: the 3nd International Symposium on Universal Communication
+- [ACL-IJCNLP2009](http://www.acl-ijcnlp-2009.org/) PC member: Joint conference of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing
+- [TextInfer2009](http://art.uniroma2.it/TextInfer2009/) PC member: ACL-2009 Workshop on Applied Textual Inference and Paraphrasing
+- [PACLING2009](http://sig.media.eng.hokudai.ac.jp/pacling2009/) PC member: Conference of the Pacific Association for Computational Linguistics
+- [WICOW2009](http://www.dl.kuis.kyoto-u.ac.jp/wicow2/) PC member: the 3rd Workshop on Information Credibility on the Web
+- [ICCPOL2009](http://www4.comp.polyu.edu.hk/%7Eiccpol09/) PC member: the 22nd International Conference on the Computer Processing and Oriental Languages
+- [ISUC2008](http://www.is-uc.org/2008/) PC member: the 2nd International Symposium on Universal Communication
+- [WICOW2008](http://www.dl.kuis.kyoto-u.ac.jp/wicow2/) PC member: the 2nd Workshop on Information Credibility on the Web
+- [KRAQ08](http://www.irit.fr/recherches/ILPL/kraq08.html) PC member: COLING-2008 Workshop on Knowledge and Reasoning for Answering Questions
+- [MMIES2008](http://doremi.cs.helsinki.fi/mmies2/) PC member: the Second Workshop on Multi-source, Multilingual Information Extraction and Summarization
+- [COLING2008](http://www.coling2008.org.uk/) PC member: the 21st International Conference on Computational Linguistics
+- [NLPIX2008](http://www.slis.tsukuba.ac.jp/%7Efujii/NLPIX2008/) PC member: WWW2008 Workshop: NLP Challenges in the Information Explosion Era
+- [ACL2008](http://www.ling.ohio-state.edu/acl08/) PC member: the 46th Annual Meeting of the Association for Computational Linguistics
+- ALTW2007 PC member: the Australasian Language Technology Workshop
+- [IJCNLP2008](http://www.afnlp.org/archives/ijcnlp08/) PC Area Chair for Paraphrasing/Entailment/Generation: the 3rd International Joint Conference of Natural Language Processing
+- MMIES2007 PC member: RANLP-2007 Workshop on Multi-source Multilingual Information Extraction and Summarization
+- EMNLP-CoNLL2007 PC member: Conference on Empirical Methods in Natural Language Processing and Conference on Computational Natural Language Learning
+- [ACL2007](http://ufal.mff.cuni.cz/acl2007/), PC member: the 45th Annual Meeting of the Association for Computational Linguistics
+- [WTEP2007](http://nlp.cs.nyu.edu/WTEP/), Co-organizer: ACL-PASCAL Workshop on Textual Entailment and Paraphrasing
+- DS2007, PC member: 10th International Conference on Discovery Science
+- [WICOW2007](http://kc.nict.go.jp/wicow/), Co-organizer: 1st Workshop on Information Credibility on the Web
+- PACLING2007, PC member: Conference of the Pacific Association for Computational Linguitisc
+- NAACL-HLT2007, PC member: Human Language Technologies Conference and Conference of the North American Chapter of the Association for Computational Linguistics
+- ICCPOL2006, PC member: 21st International Conference on Computer Processing of Oriental Languages
+- COLING-ACL2006, PC member: 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics
+- INLG2006, PC member: International Conference on Natural Language Generation
+- CSFGC2006, PC member: 1st Computational Systemic Functional Grammar Conference
+- IWP2005, PC member: International Workshop on Paraphrasing
+- EMSEE2005, PC member: ACL2005 Workshop on Empirical Modeling of Semantic Equivalence and Entailment
+- IJCAI2005, PC Area Chair: 19th International Joint Conference on Artificial Intelligence, Area on Natural Language Generation
+- PACLING2005, PC member, Local Organizing Committee member: International Conference of the Pacific Association for Computational Linguistics
+- COLING2004, PC member: 20th International Conference on Computational Linguistics
+- ACL2004, PC member: 42st Annual Meeting of the Association for Computational Linguistics
+- FLAIRS2004, PC member: Florida AI Research Conference, Special Track on User Modeling and HCI Approaches in Natural Language Generation
+- IJCNLP2004, PC member: 1st International Joint Conference of Natural Language Processing
+- IJCNLP2004, PC member: Special Session for Interactive Posters and Demonstrations for the 1st International Joint Conference of Natural Language Processing
+- Asian Symposium on Natural Language Processing to Overcome Language Barriers, Organizing Committee member
+- IWP2003, PC Co-Chair: International Workshop on Paraphrasing
+- ACL2003, PC member: 41st Annual Meeting of the Association for Computational Linguistics
+- ACL2003, PC member: Interactive Poster/Demo Sessions for the 41st Annual Meeting of the Association for Computational Linguistics
+- COLING2002, PC member: 19th International Conference on Computational Linguistics
+- EMNLP2002, PC member: Conference on Empirical Methods in Natural Language Processing
+- PRICAI2002, PC member: 7th Pacific Rim International Conference on Artificial Intelligence
+- PACLING2001, PC member: International Conference of the Pacific Association for Computational Linguistics
+- ACL2001, PC member: 39th Annual Meeting of the Association for Computational Linguistics
+- NLPRS2001 Workshop, Organizing Committee member: International Workshop on Automatic Paraphrasing: Theories and Applications
+- ICCPOL2001, PC member: 19th International Conference on Computer Processing of Oriental Languages
+- COLING2000, PC member: 18th International Conference on Computational Linguistics
+- ACL2000, PC member: 38th Annual Meeting of the Association for Computational Linguistics
+- COLING1998, PC member: 17th International Conference on Computational Linguistics
+
+### 国内 / Domestic activities
+
+- [言語処理学会 会誌「自然言語処理」](http://www.anlp.jp/guide/index.html) 副編集長, 2016/4-現在
+- [情報処理学会 自然言語処理研究会](http://www.nl-ipsj.or.jp/) 主査, 2014/4-現在
+- [言語処理学会 第22回年次大会](http://www.anlp.jp/nlp2016/) 実行委員長, 2015/4-2016/3
+- 高大接続システム改革会議 委員, 2015/4-2016/3
+- 人工知能学会 代議員, 2015/4-現在 (2017/3)
+- 情報処理学会 論文誌「学生・若手研究者論文」特集号 編集委員長, 2015/4-2016/1
+- 言語処理学会 論文誌「自然言語処理」 「エラー分析」特集号 共同客員編集委員長, 2015/4-12
+- 情報処理学会 会誌「情報処理」 特集「自然言語処理の現状と展望：エラー分析プロジェクトを通して」 共同客員編集委員長, 2015/6-11
+- 言語処理学会 「自然言語処理におけるエラー分析」ワークショップ 共同組織委員長, 2014/10-2015/3
+- [情報処理学会論文誌](http://www.ipsj.or.jp/journal/) 編集委員長, 2014/6-2015/5
+- [情報処理学会](http://www.ipsj.or.jp/) 理事, 2013/6-2015/5
+- [電子情報通信学会思考と言語研究会](http://www.ieice.org/%7Etl/) 専門委員, 2004-2015年度
+- [言語処理学会](http://www.anlp.jp/) 理事, 2012〜2014年度
+- [社会的知能発生学研究会](http://www.sociointelligenesis.org/) 幹事, 2008-2012
+- 言語処理学会第17回年次大会 プログラム委員長, 2010年度
+- 言語処理学会評議員，2008〜2010年度
+- 自然言語処理特集号「言語的オントロジーの構築・連携・利用」編集委員，2007
+- 情報処理学会論文誌査読委員，2006〜2009
+- 科研・合同シンポジウム『言語処理技術の深化と理論・応用の新展開』実行委員会幹事，2007
+- 言語処理学会第13回年次大会選考委員，2007
+- 言語処理学会第13回年次大会併設ワークショップ「大規模Web研究基盤上での自然言語処理研究、情報検索研究」プログラム委員, 2007
+- 言語処理学会第13回年次大会併設ワークショップ「言語的オントロジーの構築・連携・利用」プログラム委員, 2007
+- 科研・合同シンポジウム『語彙資源の深化とＮＬＰ新時代』組織委員，2006
+- 情報処理学会 自然言語処理研究会幹事, 2006〜2010
+- 言語処理学会第12回年次大会プログラム委員, 2006
+- 総務省SCOPE専門評価委員, 2005〜2006年度
+- 電子情報通信学会福祉情報工学研究会専門委員，2005〜2007
+- 言語処理学会第11回年次大会発表賞選考委員, 2005
+- 言語処理学会評議員，2002〜2004
+- 言語処理学会誌自然言語処理「言い換え特集号」編集委員, 2004
+- 電子情報通信学会思考と言語研究会専門委員, 2003年度〜
+- 言語処理学会第9回年次大会プログラム委員, 2002〜2003
+- 情報処理学会九州支部火の国シンポジウム2002実行委員, 2001年度
+- NTCIR Workshop: Text Summarization Challenge (TSC-1, 2, 3) 実行委員, 2001〜2003
+- 情報処理学会九州支部火の国シンポジウム2001実行委員, 2000年度
+- NTCIR Workshop: Question Answering Challenge (QAC-1, 2, 3)実行委員, 2000〜2002
+- 情報処理学会九州支部幹事, 2000〜2001年度
+- 言語処理学会第7回年次大会併設ワークショップ「言い換え／パラフレーズの自動化に向けて」組織委員, 2001
+- 電子情報通信学会思考と言語研究会幹事，1999〜 2003年度
+- 言語処理学会第5回年次大会プログラム委員, 1999
+- 言語処理学会第4回年次大会大会実行委員, 1998
+- 言語処理学会第3回年次大会大会実行委員, 1997
+- 自然言語処理シンポジウム「大規模資源と自然言語処理」プログラム委員, 1996
+- 対話リーグ戦DiaLeague実行委員, 1995〜1996
+- 日本認知科学会第12回大会実行委員, 1995
