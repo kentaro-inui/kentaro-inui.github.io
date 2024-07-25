@@ -29,7 +29,7 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 
 - [Research fields](https://www.nlp.ecei.tohoku.ac.jp/research/research-topics/)  
     natural language processing, computational linguistics, artificial intelligence & inference, semantic and discourse analysis, NLP for educational assessment, Web computing, dialogue understanding, and management
-- [Recent publications](https://www.nlp.ecei.tohoku.ac.jp/research/publications/) ([publications before 2009](http://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html))
+- [Recent publications](https://www.nlp.ecei.tohoku.ac.jp/research/publications/) ([publications before 2009](https://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html))
 
 ### Academic & Career History
 
@@ -83,7 +83,7 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
     - [Japanese Society for Artificial Intelligence](http://http://www.ai-gakkai.or.jp/en/)
     - [Information Processing Society of Japan](http://www.ipsj.or.jp/english/index.html)
 
-- [Previous activities](http://www.cl.ecei.tohoku.ac.jp/~inui/?AcademicActivities)
+- [Previous activities](./previous_activities)
 
 ### Awards
 
