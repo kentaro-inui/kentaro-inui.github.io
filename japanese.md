@@ -46,7 +46,7 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
     - 解説記事「言葉が分かるコンピューターを作る」（河北新報「科学の泉」連載・全６回）  
         http://www.kahoku.co.jp/special/spe1124/backnumber201412.html
     - [ビッグデータから知をつむぐ。](http://www.is.tohoku.ac.jp/jp/aobayama/01/)（研究科Webサイト掲載の紹介記事）
-    - 一般向けに行った講演のスライドがいくつか[こちら（研究室の研究発表一覧）](https://www.nlp.ecei.tohoku.ac.jp/research/publications/#invited_talks)からご覧いただけます
+    - 一般向けに行った講演のスライドがいくつか[こちら（研究室の研究発表一覧）](https://www.nlp.ecei.tohoku.ac.jp/research/publications/invited-talks/)からご覧いただけます
 
 - 研究発表
     - [研究室の研究発表一覧](https://www.nlp.ecei.tohoku.ac.jp/research/publications/)（2010年以降）
