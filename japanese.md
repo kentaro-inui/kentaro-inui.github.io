@@ -34,7 +34,7 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
     - 対話理解・管理 (dialogue understanding and management)
 
 - 研究分野の概要
-    - 東北大学サイエンスカフェ「言葉がわかるコンピューターはどこまでできたか ～言葉の不思議と自然言語処理の最前線」（[YouTube動画](http://www.youtube.com/watch?v=W285adx2Nr0), [スライド](http://www.cl.ecei.tohoku.ac.jp/~inui/papers/1302ScienceCafe.pdf), 2013年2月）  
+    - 東北大学サイエンスカフェ「言葉がわかるコンピューターはどこまでできたか ～言葉の不思議と自然言語処理の最前線」（[YouTube動画](http://www.youtube.com/watch?v=W285adx2Nr0), [スライド](https://www.cl.ecei.tohoku.ac.jp/~inui/papers/1302ScienceCafe.pdf), 2013年2月）  
         <a href="http://www.youtube.com/watch?v=W285adx2Nr0" rel="nofollow"><img src="./ScienceCafe.png" alt="" title="ScienceCafe.png" width="239" height="139"></a>
         
     - [東北大学 電気・情報 東京フォーラム](http://www.riec.tohoku.ac.jp/forum/)「ビッグデータから知をつむぐ自然言語処理」（[動画](http://www.riec.tohoku.ac.jp/riec_contents_open/forum2013/part3-1.html), 2013年11月)
@@ -50,7 +50,7 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 
 - 研究発表
     - [研究室の研究発表一覧](https://www.nlp.ecei.tohoku.ac.jp/research/publications/)（2010年以降）
-    - [以前の研究発表一覧](http://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html)  
+    - [以前の研究発表一覧](https://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html)  
         
 
 ### 学会活動等
@@ -94,7 +94,7 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
     - [情報処理学会](http://www.ipsj.or.jp/)
     - [電子情報通信学会](http://www.ieice.org/jpn/)
 
-- [過去の活動](http://www.cl.ecei.tohoku.ac.jp/~inui/?AcademicActivities)  
+- [過去の活動](./previous_activities)  
     
 
 ### 講義
