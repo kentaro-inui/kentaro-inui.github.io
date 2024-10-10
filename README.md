@@ -9,7 +9,7 @@ Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae
 
 Professor, Center for Language AI Research ([Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
 
-Leader of the [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/)  
+Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/)  
 [RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/), Japan  
 
   
@@ -28,8 +28,8 @@ Masdar City, Building 1B, 3rd Floor, Abu Dhabi, UAE
 
 ### Academic & Career History
 
-- 9/2023-present: Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE
-- 10/2016-present: Leader of [the Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_privacy_understand/), [RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/)
+- 9/2023-present: Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE
+- 10/2016-present: Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_privacy_understand/), [RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/)
 - 3/2010-present: Professor, Graduate School of Information Sciences, Tohoku University
 - 10/2011-present: Visiting Professor, [National Institute of Informatics](http://www.nii.ac.jp/en/), Japan
 - 10/2006-3/2018: Visiting Researcher, [National Institute of Information and Communication Technology](http://www.nict.go.jp/en/index.html), Japan
