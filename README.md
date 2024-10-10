@@ -5,7 +5,7 @@
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
 
-Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
+Professor, [Natural Language Processing Department](https://mbzuai.ac.ae/research/department/natural-language-processing-department/), MBZUAI, UAE  
 
 Professor, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) (Center for Language AI Research), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
 
