@@ -7,9 +7,9 @@
 
 Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
-Professor, Center for Language AI Research ([Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
+Professor, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) (Center for Language AI Research), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
 
-Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/), [RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/), Japan  
+Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/), RIKEN Center for Advanced Intelligence Project (AIP), Japan  
 
   
 email: kentaro.inui (at) mbzuai.ac.ae  
