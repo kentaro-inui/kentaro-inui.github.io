@@ -5,16 +5,13 @@
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
 
-Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
+Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
-Professor, Center for Language AI Research, [Tohoku University](http://www.tohoku.ac.jp/english/) (Cross appointment)  
-Also affiliated with [Natural Language Processing Lab (Tohoku NLP Group)](https://www.nlp.ecei.tohoku.ac.jp/), [GSIS](http://www.is.tohoku.ac.jp/en/), [Tohoku University](http://www.tohoku.ac.jp/english/)  
+Professor, Center for Language AI Research at [Tohoku University](http://www.tohoku.ac.jp/english/), Japan (Cross appointment)  
+[Natural Language Processing Lab (Tohoku NLP Group)](https://www.nlp.ecei.tohoku.ac.jp/), [GSIS](http://www.is.tohoku.ac.jp/en/), [Tohoku University](http://www.tohoku.ac.jp/english/) 
 
 Leader of the [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/)  
-[RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/)  
-
-Vice Director and Head of the AI Research Division,  
-[Tough Cyberphysical AI Research Center](http://tcpai.tohoku.ac.jp/en/), Tohoku University  
+[RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/), Japan  
 
   
 email: kentaro.inui.e2 (at) tohoku.ac.jp  
