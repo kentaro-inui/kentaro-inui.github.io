@@ -14,11 +14,10 @@ Leader of the [Natural Language Understanding Team](http://www.riken.jp/en/resea
 [RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/), Japan  
 
   
-email: kentaro.inui.e2 (at) tohoku.ac.jp  
-voice： +81 22 795 7091  
-fax： +81 22 795 4285  
+email: kentaro.inui (at) mbzuai.ac.ae  
+phone: +971 2 811 3282  
 twitter: [@inuikentaro](https://twitter.com/inuikentaro)  
-6-6-05 Aoba, Aramaki, Aoba-ku, Sendai, 980-8579, Japan ([Access](https://www.nlp.ecei.tohoku.ac.jp/about-us/access/))  
+Masdar City, Building 1B, 3rd Floor, Abu Dhabi, UAE 
 
 * * *
 
