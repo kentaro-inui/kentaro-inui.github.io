@@ -7,8 +7,8 @@
 
 Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
-Professor, Center for Language AI Research at [Tohoku University](http://www.tohoku.ac.jp/english/), Japan (Cross appointment)  
-[Natural Language Processing Lab (Tohoku NLP Group)](https://www.nlp.ecei.tohoku.ac.jp/), [GSIS](http://www.is.tohoku.ac.jp/en/), [Tohoku University](http://www.tohoku.ac.jp/english/) 
+Professor, Center for Language AI Research, [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
+also affiliated with [Natural Language Processing Lab (Tohoku NLP Group)](https://www.nlp.ecei.tohoku.ac.jp/) of [GSIS](http://www.is.tohoku.ac.jp/en/)
 
 Leader of the [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/)  
 [RIKEN Center for Advanced Intelligence Project (AIP)](http://www.riken.jp/en/research/labs/aip/), Japan  
