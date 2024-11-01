@@ -6,8 +6,13 @@
 </div>
 
 [ムハンマド・ビン・ザイード人工知能大学 (MBZUAI, UAE)](https://mbzuai.ac.ae/) 自然言語処理学科 教授  
+[Language Model Interpretability Team](https://www.mint-nlp-mbzuai.com/)
+
 [東北大学](http://www.tohoku.ac.jp/japanese) [言語AI研究センター](https://langai.tohoku.ac.jp/) 教授 （[大学院情報科学研究科](http://www.is.tohoku.ac.jp/) 兼務）  
-[理化学研究所 革新知能統合研究センター](https://aip.riken.jp/) [自然言語理解チーム](http://www.riken.jp/research/labs/aip/goalorient_tech/nat_lang_understand/)リーダー  
+[Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)  
+
+[理化学研究所 革新知能統合研究センター](https://aip.riken.jp/) [自然言語理解チーム](http://www.riken.jp/research/labs/aip/goalorient_tech/nat_lang_understand/) チームリーダー  
+
 [国立情報学研究所](http://www.nii.ac.jp/) 客員教授
 
 email: kentaro.inui (at) mbzuai.ac.ae  
