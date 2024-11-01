@@ -1,15 +1,15 @@
 <div class="img_margin">
-<div>
-<p class="links-top"><a class="group-home-link" href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a></p><p class="links"><a href="./japanese">日本語のページ</a></p>
-</div>
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
+<div>
+<p class="links"><a href="./japanese">日本語のページ</a></p>
+</div>
 </div>
 
 Professor, [Language Model Interpretability Team](https://www.mint-nlp-mbzuai.com/), NLP Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
 Professor, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) (Center for Language AI Research), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
 
-Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/), RIKEN Center for Advanced Intelligence Project (AIP), Japan  
+Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/), RIKEN AIP, Japan  
 
   
 email: kentaro.inui (at) mbzuai.ac.ae  
