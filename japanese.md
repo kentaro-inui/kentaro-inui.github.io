@@ -1,6 +1,6 @@
 <div class="img_margin">
 <div>
-<p class="links-top"><a class="group-home-link" href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a></p><p class="links"><a href="./">English page</a></p>
+<p class="links-top"><a href="./">English page</a></p>
 </div>
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
