@@ -5,7 +5,7 @@
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
 
-Professor, [MINT Lab](https://www.mint-nlp-mbzuai.com/), Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
+Professor, [Language Model Interpretability Team](https://www.mint-nlp-mbzuai.com/), NLP Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
 Professor, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) (Center for Language AI Research), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
 
