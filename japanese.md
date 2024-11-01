@@ -6,17 +6,18 @@
 </div>
 
 [ムハンマド・ビン・ザイード人工知能大学 (MBZUAI, UAE)](https://mbzuai.ac.ae/) 自然言語処理学科 教授  
+
 [東北大学](http://www.tohoku.ac.jp/japanese) [言語AI研究センター](https://langai.tohoku.ac.jp/) 教授 （[大学院情報科学研究科](http://www.is.tohoku.ac.jp/) 兼務）  
+
 [理化学研究所 革新知能統合研究センター](https://aip.riken.jp/) [自然言語理解チーム](http://www.riken.jp/research/labs/aip/goalorient_tech/nat_lang_understand/)リーダー  
+
 [国立情報学研究所](http://www.nii.ac.jp/) 客員教授
 
-[乾・鈴木研究室（知能情報科学講座 自然言語処理学分野）](https://www.nlp.ecei.tohoku.ac.jp/)  
-〒980-8579 仙台市青葉区荒巻字青葉6-6-05  
-青葉山キャンパス [電子情報システム・応物系1号館](https://www.nlp.ecei.tohoku.ac.jp/about-us/access/) 6階660号室  
-電話： 022-795-7091  
-ファックス： 022-795-4285  
-メール： kentaro.inui.e2 (at) tohoku.ac.jp  
-twitter: [@inuikentaro](https://twitter.com/inuikentaro)  
+
+email: kentaro.inui (at) mbzuai.ac.ae  
+phone: +971 2 811 3282  
+X: [@inuikentaro](https://twitter.com/inuikentaro)  
+Masdar City, Building 1B, 3rd Floor, Abu Dhabi, UAE 
 
 * * *
 
