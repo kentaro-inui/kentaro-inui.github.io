@@ -1,5 +1,5 @@
 <div class="img_margin">
-<img src="./inui_photo.jpeg" alt="" title="photo" width="400" height="225">
+<img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
 
 [ムハンマド・ビン・ザイード人工知能大学 (MBZUAI, UAE)](https://mbzuai.ac.ae/) 自然言語処理学科 教授  
