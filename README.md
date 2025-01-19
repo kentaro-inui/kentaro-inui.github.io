@@ -1,8 +1,5 @@
 <div class="img_margin">
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
-<div>
-<p class="links"><a href="./japanese">日本語のページ</a></p>
-</div>
 </div>
 
 Professor, [Language Model Interpretability Team](https://www.mint-nlp-mbzuai.com/), NLP Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
