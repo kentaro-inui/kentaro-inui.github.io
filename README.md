@@ -17,6 +17,9 @@ phone: +971 2 811 3282
 twitter: [@inuikentaro](https://twitter.com/inuikentaro)  
 Masdar City, Building 1B, 3rd Floor, Abu Dhabi, UAE 
 
+
+I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses a broad spectrum of NLP domains, focusing primarily on the computational modeling of semantics and discourse, knowledge-intensive reasoning for language comprehension, and the interpretability and trustworthiness of large language models. I am also deeply interested in the educational applications of NLP, conducting research in areas such as explainable automated writing evaluation and argumentation diagnosis. Before joining MBZUAI, I led the NLP Lab at Tohoku University Japan for over ten years and the Natural Language Understanding Team at RIKEN for seven years in Japan. In addition to my role at MBZUAI, I actively retain affiliations with both institutions, engaging in close collaborations and ongoing research initiatives.
+
 * * *
 
 ### Research
