@@ -6,12 +6,10 @@
 </div>
 
 Professor, [Language Model Interpretability Team](https://www.mint-nlp-mbzuai.com/), NLP Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
-
-Professor, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) (Center for Language AI Research), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan
-
+Professor, [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) (Center for Language AI Research), [Tohoku University](http://www.tohoku.ac.jp/english/), Japan  
 Leader of [Natural Language Understanding Team](http://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/), RIKEN AIP, Japan  
 
-  
+
 email: kentaro.inui (at) mbzuai.ac.ae  
 phone: +971 2 811 3282  
 twitter: [@inuikentaro](https://twitter.com/inuikentaro)  
@@ -24,9 +22,8 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 
 ### Research
 
-- [Research fields](https://www.nlp.ecei.tohoku.ac.jp/research/research-topics/)  
-    natural language processing, computational linguistics, artificial intelligence & inference, semantic and discourse analysis, NLP for educational assessment, Web computing, dialogue understanding, and management
 - [Recent publications](https://www.nlp.ecei.tohoku.ac.jp/research/publications/) ([publications before 2009](https://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html))
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=38_o3-kAAAAJ)
 
 ### Academic & Career History
 
