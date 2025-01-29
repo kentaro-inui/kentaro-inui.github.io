@@ -24,7 +24,7 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=38_o3-kAAAAJ)
 - [Publications from the MBZUAI Model Interpretability Team](https://www.mint-nlp-mbzuai.com/publications)
-- [Publications from the Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/research/publications/)
+- [Publications from the Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/research/publications/international-conferences/)
 
 ### Academic & Career History
 
