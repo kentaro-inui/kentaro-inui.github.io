@@ -82,6 +82,7 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 
 ### Awards
 
+- Fellow, [Association for Natural Language Processing](https://www.anlp.jp/) (2024)
 - Commendation for Science and Technology by the Minister of MEXT (2022)
 - [Awards for Science and Technology, the Commendation for Science and Technology by the Minister of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/houdou/mext_00989.html) (2022)
 - [NLP-2022 Best Paper Award](http://www.anlp.jp/award/nenji.html)
