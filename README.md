@@ -42,7 +42,7 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 - 4/1992-3/1995: Research Fellowship, [Japan Society for the Promotion of Science (JSPS)](http://www.jsps.go.jp/english/index.html)
 - 3/1990: B.E. from Department of Computer Science, Tokyo Institute of Technology
 
-### Academic activities
+### Academic service
 
 - Chairperson of [Association for Natural Language Processing](https://www.anlp.jp/) (2022/3-present)
 - Area Co-chair of [Association for Natural Language Processing](https://www.anlp.jp/en/index.html) (3/2022-present)
@@ -80,7 +80,7 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 
 - [Previous activities](./previous_activities)
 
-### Awards
+### Academic Honours
 
 - Fellow, [Association for Natural Language Processing](https://www.anlp.jp/) (2024)
 - Commendation for Science and Technology by the Minister of MEXT (2022)
