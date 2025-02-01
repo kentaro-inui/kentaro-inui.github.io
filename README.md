@@ -80,7 +80,7 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 
 - [Previous activities](./previous_activities)
 
-### Academic Honours
+### Academic Honors
 
 - Fellow, [Association for Natural Language Processing](https://www.anlp.jp/) (2024)
 - Commendation for Science and Technology by the Minister of MEXT (2022)
