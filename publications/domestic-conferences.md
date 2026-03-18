@@ -2,7 +2,11 @@
 #### Domestic Conferences
 
 [International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| **Domestic Conferences** \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
-
+ 
+- 神林 励旺, 稲葉 達郎, Benjamin Heinzerling, 坂口 慶祐, 乾 健太郎, 磯沼 大. 画像生成学習が視覚理解能力へ与える影響の分析. 言語処理学会第32回年次大会 (NLP2026), pp.-, March 2026.
+- 原知正, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ平均プーリングはうまく動くのか？テキスト埋め込みの二次統計量の崩壊の定量化. 言語処理学会第32回年次大会 (NLP2026), pp.-, March 2026.
+- 高橋良允, 稲葉達郎, 乾健太郎, Benjamin Heinzerling. TopK Language Models. 言語処理学会第32回年次大会 (NLP2026), pp.-, March 2026
+- 坂田将樹, Benjamin Heinzerling, 伊藤拓海, 横井祥, 乾健太郎. 言語モデルに線形に内在する階層的概念. 言語処理学会第32回年次大会 (NLP2026), pp.-, March 2026.
 - 原知正, 栗田宙人, 今泉允聡, 乾健太郎, 横井祥. なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析. 第28回情報論的学習理論ワークショップ (IBIS), November 2025.
 - 宮里 龍平, 丹羽 彩奈, 乾 健太郎, 原田 慧. 非直線的な物語における言語モデルの時間的推論能力の検証. 第20回言語処理若手シンポジウム (YANS2025), September 2025.
 - 佐藤 魁, 高橋 良允, Benjamin Heinzerling, 田中 健史朗, 趙 羽風, 坂井 吉弘, 井之上 直也, 乾 健太郎. 言語モデルにおける知識の既知性判断の内部表象. 2025年度人工知能学会全国大会(第39回), 4 pages, May 2025.
