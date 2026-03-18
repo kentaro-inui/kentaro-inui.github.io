@@ -1,0 +1,128 @@
+## Publicatios
+#### Invited Talks
+
+[International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| **Invited Talks** \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
+
+- 乾健太郎. How can We Build Trust in Automated Writing Evaluation?. the 24th International Conference on Artificial Intelligence in Education(AIED2023), July 2023.
+- 乾健太郎. 記念パネル討論「情報科学の最前線:AIの進化がもたらす人間社会へのインパクトに迫る」. 情報科学研究科創立30周年記念行事, July 2023.
+- 乾健太郎. 言語処理の人工知能最前線 〜最先端の技術開発と社会実装〜. 工学院大学情報学先端技術特別講義, July 2023.
+- 乾健太郎. How can We Build Trust in Automated Writing Evaluation?. AIED2023, June 2023. [link](https://www.aied2023.org/index.html)
+- Kentaro Inui. Explainability in Automated Writing Evaluation. Invited Talk, COLING 2022, October 2022. [PDF](https://example.com/paper.pdf)
+- 乾健太郎. 読み書きの支援/診断技術と読み書き. 第13回産業日本語研究会・シンポジウム, February 2022.
+- 乾健太郎. 言語で説明できるAI実現への道のり. 東北大学未来型医療創造卓越大学院セミナー, December 2021.
+- 乾健太郎. 言語で説明できるAIへの道のり. 東北大学 電気・情報 産学官フォーラム2021, October 2021.
+- 乾健太郎. データ科学の具現＆道具としての自然言語処理. 東北大学実験家のためのデータ駆動科学オンラインセミナー, September 2021.
+- 乾健太郎. ラーニングアナリティクス×自然言語処理. 東北大学ラーニングアナリティクス研究センター キックオフシンポジウム, July 2021.
+- 乾健太郎. ストックマークオンラインイベント「いま注目のAI、自然言語処理の実社会への活用の可能性に迫る」. パネル討論, July 2021.
+- 乾健太郎. 自然言語処理から見るAIの現在と未来.
+- 乾健太郎, 赤間怜奈. AIはいつか言葉を理解するか？〜言語から見る人工知能の現在と未来〜. 宮城第一高校, May 2021.
+- 乾健太郎. ファクトチェックの技術支援：自然言語処理から見た現状と展望. 東北大学ヨッタインフォマティクス研究センター研究会, March 2021.
+- 乾健太郎. 記述式答案の採点・評価を支援する言語処理技術. 全国学力調査CBT化検討WG, January 2021.
+- 乾健太郎. 言語で説明できるAIへの道のり：質問応答、自然言語アセスメントを例題として. IDRユーザフォーラム 2020, November 2020.
+- 乾健太郎. 言語で説明できるAIへの道のり. 第40回医療情報学連合大会, November 2020.
+- Kentaro Inui. Natural Language Understanding and Assessment. The 68th Seminar on RIKEN Center for Advanced Photonics, November 2020.
+- 乾健太郎. コロナ新時代に自然言語処理ができること. コロナ新時代における人工知能の活用, October 2020.
+- Kentaro Inui. Natural Language Understanding and Assessment. The 1st International Symposium on AI Electronics, September 2020.
+- 乾健太郎. 「知識と推論に基づいて⾔語で説明できる AI」への道のり. ACL2020オンライン読み会, September 2020. [PDF](http://52.194.193.98/publications/2020/inui-2020-09-12-200906ACL2020Reading.pdf)
+- 乾健太郎. 自然言語処理のフロンティア〜言語理解マシンへの道のり〜. コンピュータソフトウェア協会（CSAJ）人工知能技術研究会, February 2020.
+- 乾健太郎. 自然言語理解への道のり. JST/CRDSワークショップ「深層学習と知識・記号推論の融合によるAI基盤技術の発展」, January 2020.
+- 乾健太郎. 自然言語処理から見える人工知能研究の方向性. 文部科学省戦略的創造研究推進事業ワークショップ ｢人間中心社会におけるAIの信頼性を支える基盤技術」, December 2019.
+- Kentaro Inui. New Challenges in Natural Language Assessment. Bilateral Workshop between National Tsing Hua University and Tohoku University, November 2019.
+- Kentaro Inui. New Challenges in Natural Language Assessment. The 19th China-Japan Natural Language Processing Collaboration Promotion Conference (CJNLP2019), September 2019.
+- 乾健太郎. 言葉がわかる人工知能をつくるには〜言葉の不思議と自然言語処理の最前線〜. 東北管区警察局, September 2019.
+- 乾健太郎. 自然言語処理のフロンティア 深層学習のインパクトと活用方法. 土木学会 構造工学でのAI活用に関する研究小委員会, August 2019.
+- 乾健太郎. 言葉がわかる人工知能をつくる〜自然言語処理の挑戦〜. 河合塾　『知の広場』, August 2019. [link](https://www.kawai-juku.ac.jp/event/list/dtl0000002725)
+- 乾健太郎. 言論マップ、ファクトチェック: 自然言語処理技術によるアプローチ. JST/CRDS 公開ワークショップ 「意思決定のための情報科学 ～情報氾濫・フェイク・分断に立ち向かうことは可能か～」, July 2019. [link](https://www.jst.go.jp/crds/sympo/20190725/index.html)
+- 乾健太郎. ネットの誤情報に対する自然言語処理からのアプローチ. 総務省プラットフォームサービスに関する研究会, June 2019.
+- 乾健太郎. AIはいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. 宮城県宮城第一高等学校講義, May 2019. [link](https://miyaichi.myswan.ed.jp/blogs/blog_entries/view/14/250843456d25f762218b4146014bfa55?frame_id=50)
+- 乾健太郎. 自然言語処理研究から見える人工知能の現在と未来. 宮城県高等学校進路指導研究会春季総会, May 2019.
+- 乾健太郎. ネットの誤情報に対する自然言語処理からのアプローチ. シンポジウム「フェイクニュースとどう向き合うか――メディアの現場と社会科学・情報科学の対話」, March 2019. [link](http://www.is.nagoya-u.ac.jp/dep-ss/phil/kukita/events/symposium-on-fakenews.html)
+- 乾健太郎. 言葉がわかる人工知能をつくる. 東北大学工学部 in 東京, March 2019.
+- 乾健太郎. ラーニングアナリティクス×自然言語処理.
+- 乾健太郎. 自然言語テキストの理解と評価. 第2回 自然言語処理の中長期研究構想を論じる会（第239回自然言語処理研究会）, March 2019. [link](https://nl-ipsj.or.jp/2019/01/25/nl239/)
+- 乾健太郎. ＡＩはいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. 秋桜会第339回例会, February 2019.
+- Kentaro Inui. Natural language understanding and assessment. The 1st Japan-Israel Machine Learning Workshop, November 2018. [link](https://polarified.wixsite.com/jiml2018)
+- 乾健太郎. 言語から見た人工知能の現在と未来. 朝日地球会議 パネル討論「AI×IoT時代、『人と人の間』はどう変わる」, September 2018. [link](http://www.asahi.com/eco/awf2018/program/)
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Lecture in Machano-informatics, Tokyo University, July 2018.
+- 乾健太郎. AIはいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. 東北大学111周年萩友会関東交流会. [link](http://www.bureau.tohoku.ac.jp/alumni/topics18.)
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城第一高校, May 2018.
+- 乾健太郎. 三菱ケミカルホールディングス Data Scientist Network 2018年度第1Q会合. 三菱ケミカルホールディングス Data Scientist Network, May 2018.
+- 乾健太郎, 楊井文人. テクノロジー支援と市民参加の可能性. ファクトチェック・イニシアティブ設立シンポジウム, April 2018.
+- 乾健太郎. AI版「赤ペン先生」をつくる！自然言語処理のフロンティア. グロービス経営大学院「知の創造勉強会」, March 2018. [link](https://globis.jp/article/6449)
+- 乾健太郎. 自然言語処理のフロンティア ～自然言語の意味計算とその向こう側～. Hitachiアカデミックシステム研究会 第41回研究会, March 2018.
+- 乾健太郎. 言葉がわかる人工知能をつくるには～言葉の不思議と自然言語処理の最前線～. 特別講演会「東北大学in東京 工学部編」, March 2018.
+- Kentaro Inui. Modeling Commonsense Reasoning for Natural Language Understanding. International Conference for Top and Emerging Computer Scientists (IC-TECS), December 2017.
+- Kentaro Inui. Modeling Commonsense Reasoning for Natural Language Understanding. The 1st NTU-Tohoku U Symposium on Interdisciplinary AI and Human Studies, December 2017.
+- 乾健太郎. 人工知能の現在と未来. 東北大学・読売新聞共同プロジェクト 市民のためのサイエンス講座2017「人工知能（AI）が切り拓く未来～持続可能で心豊かな社会へのアプローチ～」, December 2017.
+- 乾健太郎. パネル討論. Inter BEE Forum「災害情報とAI～データ・ジャーナリズムの視点から」, November 2017.
+- 乾健太郎. 記述答案の自動評価に向けて. DiTTシンポジウム「AI時代の教育を考える」, November 2017.
+- 乾健太郎. ファクトチェック・イニシアティブ＋SmartNews＋東北大によるファクトチェック支援技術の実証実験構想. SmartNews メディアパートナーミーティング Vol.5, November 2017. [PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2017/171106factcheck.pdf)
+- 乾健太郎. 自然言語処理のフロンティア. Astro-AI 第1回研究会, September 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化 〜人工知能ブームへの備え方〜. 東北生産性本部平成29年度労使セミナー, September 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 河合塾仙台校「知の広場」, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜言葉の不思議と自然言語処理の最前線〜. 東北大学オープンキャンパス模擬講義, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 渋谷教育学園幕張高等学校, July 2017.
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Bilateral Workshop between Tohoku University and National Tsing Hua University, October 2016. [link](http://www.smapip.is.tohoku.ac.jp/~dex-smi/2016/BW-Tohoku-TsingHua-201610/)
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 新宿高校, October 2016.
+- 乾健太郎, 関根聡. 「行間を読む」言語理解のための知識と推論. 第4回けいはんなエジソンの会, October 2016.
+- 乾健太郎. 言葉を理解する人工知能のいま 〜自然言語処理の基礎からフロンティアまで〜. 宮城県高等学校情報科教育研究会研究大会, November 2016.
+- 乾健太郎. 文章の「行間」を読むコンピュータの実現を目指して. 日立ソリューションズ東日本事業化発表会, November 2016.
+- 乾健太郎. 自然言語処理のフロンティア. 横浜国立大学研究集会「新たな数理科学の可能性に向けて：IoT・人工知能・量子ウォークとその周辺」, December 2016.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化：人工知能ブームへの備え方. 仙台商工会議所, February 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城第一高校, May 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城県立富谷高校, June 2017.
+- Kentaro Inui. Computational Models of Commonsense Reasoning for Natural Language Discourse Understanding. AEARU Web Technology and Computer Science Workshop 2016, September 2016.
+- 乾健太郎. 自然言語処理との付き合い方 〜災害対応とメディアを例に〜. 日本原子力学会HMS研究部会2016年度夏期セミナー, July 2016.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 仙台第三高校, October 2016.
+- 乾健太郎. Businnovare – PwC Technology Day –. パネリスト, June 2016. [link](http://www.pwc.com/jp/ja/japan-seminar/2016/businnovare-pwc-technology-day160623.html)
+- 田 然, 岡崎直観, 乾健太郎. 関係代数の意味論に基づく含意関係認識. 人工知能学会第30回全国大会, 3O4-OS-04b-1, June 2016.
+- 乾健太郎. 言葉を理解する人工知能のいま ～自然言語処理・人工知能から見える社会・産業のスマート化～. 産学連携セミナー「第102回寺子屋せんだい」, May 2016.
+- 乾健太郎. 自然言語処理を活用した防災情報の整理と共有. 仙台防災未来フォーラム2016「『しなやかな社会』の情報通信ネットワークを目指して」, March 2016. [link](https://www.bosai-sendai.jp/mirai-forum2016/)
+- 乾健太郎. もしも災害で情報が混乱してしまったら 〜自然言語処理を活用した防災情報の整理と共有〜. 東北大学大学院情報科学研究科シンポジウム「『情報科学』から『防災』を考える」, March 2016. [link](https://www.is.tohoku.ac.jp/sympo2016/symposium/)
+- 乾健太郎. 自然言語処理・人工知能から見るビッグデータの今と未来. 第1回 ビッグデータ車座 in 仙台. [link](http://www.sproutjp.co)
+- 乾健太郎. 人工知能研究から見えるスマート社会の地平. 東北大学電気・情報系東京フォーラム, 基調講演, November 2015.
+- 乾健太郎. 言葉がわかる人工知能をつくる 〜自然言語処理の挑戦〜. 仙台第一高校, October 2015.
+- 乾健太郎. 言葉がわかるコンピュータをつくる 〜言葉の不思議と自然言語処理の最前線〜. 東北大学祭模擬講義, October 2015.
+- 乾健太郎. 大規模知識獲得で深化する自然言語処理のフロンティア. モバイル・コンテンツ・フォーラム「モバイルビジネスの発展を実現する人工知能の活用とは」, October 2015. [link](https://www.mcf.or.jp/course/cp_course_2015)
+- 乾健太郎. 言葉がわかる人工知能をつくる 〜自然言語処理の挑戦〜. 宮城第一高校, October 2015.
+- 乾健太郎. 審査委員としての視点による説明. 平成27年度科研費学内説明会, September 2015.
+- 乾健太郎, 松林優一郞. 言語コーパスへの重層的意味情報付与 〜自然言語処理から見たコーパス分析〜. 言語変化・変異研究ユニット第二回ワークショップ「コーパスからわかる言語の可変性と普遍性」, September 2015.
+- 乾健太郎. 「行間を読む」自然言語処理への挑戦 〜知識、学習、推論、そしてグラウンディング〜. 第18回画像の認識・理解シンポジウム (MIRU), 特別講演, July 2015.
+- 乾健太郎. 自然言語処理から見える知能情報技術の近未来. JASA東北 知能情報フェスタ, March 2015.
+- 乾健太郎. ビッグデータで加速する自然言語処理. 東北IT推進機構 勉強会, March 2015.
+- 乾健太郎. 自然言語処理の立場から見た近未来. 情報処理学会第77回全国大会「トップランナーが語るITの未来」, March 2015. [link](http://www.ipsj.or.jp/event/taikai/77/77program/html/event/D-4.html)
+- Kentaro Inui.
+- 乾健太郎. 計算機によるデータに基づく言い換え. 第６回産業日本語研究会・シンポジウム, February 2015.
+- 平田圭二, 塚本昌彦, 乾健太郎. 《特別鼎談》編集長３人は語り尽くせなかった. 情報処理, Vol.51, No.1, pp.86-92, 2015.
+- Kentaro Inui. Modeling “Reading between the Lines” Based on Scalable and Trainable Abduction and Large-scale Knowledge Acquisition. NII Shonan Meeting Seminar 057: Towards Explanation Production Combining Natural Language Processing and Logical Reasoning, November 2014.
+- 乾健太郎. 言葉がわかるコンピュータを創るには 〜言葉の不思議と自然言語処理の最前線〜. 東北大学祭模擬講義, November 2014. [PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2014/141102-inui.pdf)
+- 乾健太郎. ビッグデータ時代の自然言語処理. テレコムサービス協会東北支部セミナー, May 2014.
+- 乾健太郎. 知のメディアへ：自然言語処理からの展開. 人工知能学会全国大会特別セッション「人間と調和した創造的協働を実現する知的情報処理システム」, May 2014.
+- 乾健太郎. ソーシャルメディア時代のソーシャルリスニング. 仙台泉倫理法人会モーニングセミナー, January 2014.
+- 乾健太郎. ビッグデータから知をつむぐ自然言語処理. 第13回東北大学-NTT技術交流会, December 2013.
+- 乾健太郎. 言葉が少しわかるようになったコンピュータの使い方. 仙台エコーライオンズクラブ, November 2013.
+- 乾健太郎. ビッグデータから知をつむぐ自然言語処理. 東北大学 電気・情報 東京フォーラム, November 2013. [link](http://www.riec.tohoku.ac.jp/forum/)
+- 乾健太郎. ビッグデータと対話する自然言語処理. お茶の水女子大学情報科学科 理学総論, November 2013. [PDF](http://www.cl.ecei.tohoku.ac.jp/publications/2013/131120-inui-Ocha.pdf)
+- 乾健太郎. 自然言語処理から見たビッグデータの可能性. ITCみやぎ・SAAJ東北・JISTA東北ワークショップ2013, October 2013.
+- 乾健太郎. 「行間を読む」自然言語処理への挑戦. 豊田工業大学第９回ジョイントCSセミナー, October 2013.
+- 乾健太郎. ソーシャルメディア時代のソーシャルリスニング. 仙台青葉倫理法人会モーニングセミナー, October 2013.
+- 乾健太郎. 耐災害ICTを目指す自然言語処理. 東北大学電気通信研究機構シンポジウム, July 2013. [PDF](https://www.cl.ecei.tohoku.ac.jp/publications/2013/130723ROEC.pdf)
+- 乾健太郎, 岡崎直観. 自然言語処理によるネット情報分析、およびツイート分析と報道. 三金会, July 2013.
+- 乾健太郎. ビッグデータと対話する自然言語処理. 東京大学大学院情報理工学研究科コンピュータ科学専攻講演会, July 2013. [link](http://www.is.s.u-tokyo.ac.jp/kouenlist.php)
+- 乾健太郎. ビッグデータ時代の自然言語処理. 東北データベースソサエティ, June 2013. [PDF](https://www.cl.ecei.tohoku.ac.jp/publications/2013/130621ToDas.pdf)
+- 乾健太郎. 大学でワクワクするためのいくつかのヒント 〜言葉がわかるコンピュータの話とともに〜. 仙台第三高等学校, May 2013. [PDF](http://www.cl.ecei.tohoku.ac.jp/~inui/papers/130524SendaiSankou.pdf)
+- 乾健太郎. 言葉がわかるコンピューターはどこまでできたか ～言葉の不思議と自然言語処理の最前線. 東北大学サイエンスカフェ, February 2013. [PDF](http://www.cl.ecei.tohoku.ac.jp/~inui/papers/1302ScienceCafe.pdf)
+- 乾健太郎. ビッグデータ時代の自然言語処理. 鹿児島大学情報工学科先端科学特別講義, February 2013.
+- 乾健太郎. 言葉が少しわかるようになったコンピュータの使い方. 仙台はなもく七三会, November 2012. [PDF](http://www.cl.ecei.tohoku.ac.jp/~inui/papers/1211Hanamoku.pdf)
+- 乾健太郎. ネット情報の信頼性分析を支援する言語処理技術. 第86回デジタルドキュメント研究会, July 2012.
+- 乾健太郎. 大規模言語資源時代の意味談話処理. 言語処理学会第18回年次大会チュートリアル講演, March 2012. [PDF](http://www.cl.ecei.tohoku.ac.jp/~inui/papers/1203NLP-Tutorial.pdf)
+- Kentaro Inui. Toward deep processing of language in the era of large-scale knowledge resources: Time for formal semantics to meet NLP again. Proceedings of the 8th International Workshop on Logic and Engineering of Natural Language Semantics (LENLS8), December 2011.
+- Kentaro Inui, Naoya Inoue. Scalable Abduction for Deep NLP. The Shonan Meeting on Knowledge-leveraged Computational Thinking through Natural Language Processing and Statistical Logic, September 2011. [link](http://www.nii.ac.jp/shonan/seminar012/)
+- 乾健太郎. 大規模言語資源に基づくWeb情報の組織化. ALAGINシンポジウム2011, September 2011.
+- 乾健太郎. ネット情報の信頼性を検証するための技術的支援. 情報アクセスシンポジウム2011, September 2011. [link](http://www.ipsj-ifat.org/cfp/IAS2011/)
+- 乾健太郎. 自然言語処理の新展開とウェブ情報編集の未来像.
+- 乾健太郎. 大規模言語/世界知識に基づく次世代Web情報分析. 電子情報通信学会コンピュテーション研究会, October 2010.
+- 乾健太郎. コーパスへの意味的注釈の重層的付与. 英語コーパス学会第36回大会シンポジウム「コーパスにおける言語的注釈と自然言語処理技術」, October 2010. [PDF](https://www.cl.ecei.tohoku.ac.jp/publications/2010/101009-inui-corpus.pdf)
+- 乾健太郎. コミュニケーションの条件と言語情報編集技術. 東北大学情報科学研究科第4回総合科学を考えるセミナー, October 2010.
+- 乾健太郎. 大規模知識に基づく言語情報処理と次世代ウェブ情報編集の可能性. 北海道大学大学院情報科学研究科GCOE講演会, June 2010. [slides](http://www.cl.ecei.tohoku.ac.jp/local/handouts/2010/misc/100630.inui.pptx)
+- 乾健太郎. 大規模言語/世界知識に基づくWeb情報編集の高度化. 電子情報通信学会思考と言語研究会, May 2010.

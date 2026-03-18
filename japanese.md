@@ -24,6 +24,7 @@ Masdar City, Building 1B, 3rd Floor, Abu Dhabi, UAE
 
 ### 研究
 
+- [研究発表](./publications/international-conferences)
 - 研究分野（[研究室の研究内容のページ](https://www.nlp.ecei.tohoku.ac.jp/research/research-topics/)）  
     - 自然言語処理 (natural language processing)
     - 計算言語学 (computational linguistics)
