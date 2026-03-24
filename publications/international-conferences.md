@@ -3,6 +3,8 @@
 
 **International Conferences** \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- Rifo Ahmad Genadi, Munachiso Samuel Nwadike, Nurdaulet Mukhituly, Tatsuya Hiraoka, Hilal AlQuabeh, Kentaro Inui. Sycophancy Hides Linearly in the Attention Heads. EACL2026 Main, 2026. [paper](https://arxiv.org/abs/2601.16644)
+- Keito Kudo, Yoichi Aoki, Tatsuki Kuribayashi, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui. LLMs Faithfully and Iteratively Compute Answers During CoT: A Systematic Analysis With Multi-step Arithmetics. EACL2026 Findings, 2026. 
 - Surawat Pothong, Machi Shimmei, Naoya Inoue, Paul Reisert, Ana Brassard, Wenzhi Wang, Shoichi Naito, Jungmin Choi, Kentaro Inui. FOCUS: A Benchmark for Targeted Socratic Question Generation via Source-Span Grounding. Proceedings of the 14th IJCNLP and 4th AACL, December 2025. [paper](https://openreview.net/pdf?id=IkBTMBa81b)
 - Mutsumi Sasaki, Go kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling. Can Language Models Handle a Non-Gregorian Calendar?. Proceedings of the 14th IJCNLP and 4th AACL, December 2025.
 - Nhi Hoai Doan, Tatsuya Hiraoka, Kentaro Inui. Understanding and Controlling Repetition Neurons and Induction Heads in In-context learning. AACL2025 Main, 2025. [paper](https://arxiv.org/abs/2507.07810)
