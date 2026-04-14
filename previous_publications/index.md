@@ -1,4 +1,6 @@
-## 学術雑誌 / Journal Papers
+## 以前の研究発表一覧
+
+### 学術雑誌 / Journal Papers
 
 - 飯田龍, 小町守, 乾健太郎, 松本裕治. 述語項構造と照応関係のアノテーション: NAISTテキストコーパス構築の経験から. 自然言語処理, Vol.17, No.2, pp.25−50, 2010.
 - Naoya Inoue, Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Resolving Direct and Indirect Anaphora for Japanese Definite Noun Phrases. Journal of Natural Language Processing, Vol.17, No.1, pp.221-246, 2010.
@@ -34,7 +36,7 @@
 - Kentaro Inui and Takenobu Tokunaga and Hozumi Tanaka. Dependency-directed control of text generation using functional unification grammar. New Generation Computing, Vol. 14, No. 2, pp. 169-193, 1994.
 - 乾健太郎, 徳永健伸, 田中穂積. 文章生成における推敲機能の実現について. 人工知能学会誌, Vol. 8, No. 5, pp. 215-230, 1993.
 
-## 国際会議 / Conference Papers
+### 国際会議 / Conference Papers
 
 - Tetsuji Nakagawa, Kentaro Inui and Sadao Kurohashi. Dependency tree-based sentiment classification using CRFs with hidden variables. In Proceedings of the North American Chapter of the Association for Computational Linguistics and Human Language Technologies (NAACL-HLT), 2010 (to appear).
 - Suguru Matsuyoshi, Megumi Eguchi, Chitose Sao, Koji Murakami, Kentaro Inui and Yuji Matsumoto. Annotating event mentions in text with modality, focus, and source information. In Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC), 2010 (to appear).
@@ -104,7 +106,7 @@
 - Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Text revision:A model and its implementation. Proceedings of the 6th International Workshopn on Natural Language Generation (R. Dale,E. Hovy, D. Rosner, and O. Stock (eds.), Aspects of Automated Natural Language Generation, LNAI-587), pp.215-230. Springer-Verlag, 1992.
 - Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. An architecture for text revision, Proceedings of Natural Language Pacific-Rim Symposium, pp.156-161, 1991.
 
-## 招待講演・パネル / Invited & Panel Talks  
+### 招待講演・パネル / Invited & Panel Talks  
 
 - 大規模言語/世界知識に基づくWeb情報編集の高度化, 電子情報通信学会思考と言語研究会, 2010.5.
 - 機械翻訳シンポジウム「機械翻訳研究の課題と新方式の展望」, パネル討論, 2009.10.
@@ -127,7 +129,7 @@
 - 語学教師と自然言語処理研究者の協力の必要性 ─ インターネット時代の言語学習環境の構築を目指して ─. シンポジウム「大学における外国語教育・学習環境の将来」, 1997.
 - The internet: a "natural" channel for language learning. In Proceedings of the 18th International Conference on Computational Linguistics (COLING'96), Panel session, pp.1012-1013, 1996.
 
-## 解説・総説 / Reviews
+### 解説・総説 / Reviews
 
 - 乾健太郎. 言語情報間の含意･矛盾関係の認識. 月刊言語, 2008年8月号, pp30-37, 2008.8 \[[PDF](./papers/0806Gengo.pdf)\]
 - 鳥澤健太郎, 中川裕志, 黒橋禎夫, 乾健太郎, 吉岡真治, 藤井敦, 喜連川優. キーワードサーチを超える情報爆発サーチ---自然言語処理で価値ある未知をマイニング---. 情報処理, vol. 49, no. 8, pp. 890-896, 2008.8
@@ -150,7 +152,7 @@
 - 徳永健伸, 乾健太郎. 1980年代の自然言語生成—2—. 人工知能学会誌, Vol. 6, No. 4, pp. 46-55, 1991. \[[PDF](./papers/9103JSAI.pdf)\]
 - 徳永健伸, 乾健太郎. 1980年代の自然言語生成—1—. 人工知能学会誌, Vol. 6, No. 3, pp. 70-77, 1991. \[[PDF](./papers/9103JSAI.pdf)\]
 
-## 著書・訳書 / Books
+### 著書・訳書 / Books
 
 - 乾健太郎, 松吉俊. 言語情報編集のための広義モダリティ解析に向けて. JAPIO 2009 YEAR BOOK, 2009.9.
 - 乾健太郎, 藤田篤. 言い換え計算モデルの工学的実現への語彙意味論的アプローチ. レキシコンフォーラム, Vol. 2, pp. 27-56, 2006.
@@ -163,7 +165,7 @@
 - Bateman, J. A. Sentence generation and systemic grammar. 乾健太郎訳. 文生成とシステミック文法. 言語の数理, 岩波講座「言語の科学」第8巻, 第4章, pp.137-194, 岩波書店, 1999.
 - Bateman, J. A. Sentence generation and systemic grammar. 乾健太郎訳. 文生成とシステミック文法. 言語の数理, 岩波講座「言語の科学」第8巻, 第4章, pp.137-194, 岩波書店, 1999.
 
-## 特許・報道 / Patents and Press reports  
+### 特許・報道 / Patents and Press reports  
 
 - ブログ情報選別おまかせ、伝聞か体験か判断, 朝日新聞, 2008.12.21
 - 個人経験情報の検索システム「みんなの経験」一般公開, 科学新聞, 2008.12.19
@@ -180,7 +182,7 @@
 - 質問内容抽出装置と質問内容抽出方法, 2007-37033, 2007.2
 - [日本語を簡単な日本語に言い換えるー福祉的コミュニケーション支援に向けてー](http://www.sci-news.co.jp/news/200203/140322.htm), 科学新聞, 2002.3.22
 
-## 国内会議・研究会・その他
+### 国内会議・研究会・その他
 
 - 乾健太郎, 飯田龍. 日本語書き言葉コーパスへの重層的意味情報付与 〜照応・共参照，述語項構造，モダリティ，談話関係〜, 科研費特定研究「日本語コーパス」平成21年度全体会議予稿集, 2009.9. \[[PDF](./papers/0909JNC.pdf)\]
 - 江口萌, 松吉俊, 佐尾ちとせ, 乾健太郎, 松本裕治. 日本語文章の事象に対する判断情報アノテーション. 情報処理学会研究報告, 自然言語処理研究会, 2009-NL-193, 2009.9.
