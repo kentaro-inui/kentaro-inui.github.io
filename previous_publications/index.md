@@ -1,0 +1,345 @@
+## 学術雑誌 / Journal Papers
+
+- 飯田龍, 小町守, 乾健太郎, 松本裕治. 述語項構造と照応関係のアノテーション: NAISTテキストコーパス構築の経験から. 自然言語処理, Vol.17, No.2, pp.25−50, 2010.
+- Naoya Inoue, Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Resolving Direct and Indirect Anaphora for Japanese Definite Noun Phrases. Journal of Natural Language Processing, Vol.17, No.1, pp.221-246, 2010.
+- 小町守, 飯田龍, 乾健太郎, 松本裕治. 詞句の語彙統語パターンを用いた事態性名詞の項構造解析. 自然言語処理, Vol.17, No.1, pp.141-160, 2010.
+- 阿部修也, 乾健太郎, 松本裕治. 項の共有関係と統語パターンを用いた事態間関係獲得. 自然言語処理, Vol.17, No.1, pp.121−140, 2010.
+- 加藤義清, 河原大輔, 乾健太郎, 黒橋禎夫, 柴田知秀. Web ページの情報発信者の同定. 人工知能学会論文誌, Vol.25, No.1, pp.79-82, 2010.
+- 阿部修也, 乾健太郎, 松本裕治. 共起パターンの学習による事態間関係知識の獲得. 自然言語処理, Vol.16, No.4, pp.79-82, 2009.
+- 徳久良子, 乾健太郎, 松本裕治. Webから獲得した感情生起要因コーパスに基づく感情推定. 情報処理学会論文誌, Vol.50, No.4, pp.1365-1374, 2009.
+- Yoshikiyo Kato, Sadao Kurohashi, and Kentaro Inui. Classifying information sender of web documents. Internet Research, vol.18, no.2, pp191-203, 2008.5
+- Hisashi Miyamori, Susumu Akamine, Yoshikiyo Kato, Ken Kaneiwa, Kaoru Sumi, Kentaro Inui, Sadao Kurohashi. Evaluation data and prototype system WISDOM for information credibility analysis. Internet Research, vol.18, no.2, pp155-164, 2008.5
+- Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Zero-Anaphora Resolution by Learning Rich Syntactic Pattern Features. ACM Transactions on Asian Language Information Processing (TALIP), vol.6, no.4, Dec. 2007 \[[PDF](./papers/0712TALIP-Iida.pdf)\]
+- Nozomi Kobayashi, Kentaro Inui, and Yuji Matsumoto. Opinion Mining from Web Documents: Extraction and Structurization. Journal of the Japanese Society for Artificial Intelligence, vol.22, no.2, pp227-238, Mar. 2007 \[[PDF](./papers/0707EMNLP-Kobayashi.pdf)\]
+- 藤田篤, 降幡建太郎, 乾健太郎, 松本裕治. 語彙概念構造に基づく言い換え生成 - 機能動詞構文の言い換えを例題に. 情報処理学会論文誌, Vol. 47, No. 6, pp.1963-1975, 2006. \[[PDF](./papers/0605IPSJ-Fujita.pdf)\]
+- 藤田篤, 乾健太郎. クラス指向事例収集手法による言い換えコーパスの構築. 自然言語処理, Vol. 13, No. 3, pp.133-150, 2006.
+- 平野徹, 飯田龍, 藤田篤, 乾健太郎, 松本裕治. 動詞項構造辞書への大規模用例付与. 自然言語処理, Vol. 13, No. 3, pp.113-132, 2006. \[[PDF](./papers/0607JANLP-Hirano.pdf)\]
+- Takashi Inui, Kentaro Inui, and Yuji Matsumoto. Acquiring causal knowledge from text using the connective marker tame. ACM Transactions on Asian Language Information Processing (TALIP), Vol. 4, Issue 4, pp.435-474, 2005. \[[PDF](./papers/0512TALIP-Inui.pdf)\]
+- Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Anaphora resolution by antecedent identification followed by anaphoricity determination. ACM Transactions on Asian Language Information Processing (TALIP), Vol. 4, Issue 4, pp.417-434, 2005. \[[PDF](./papers/0512TALIP-Iida.pdf)\]
+- 小林のぞみ, 乾健太郎, 松本裕治, 立石健二, 福島俊一. 意見抽出のための評価表現の収集. 自然言語処理, Vol. 12, No. 3, pp.203-222, 2005.
+- 飯田龍, 乾健太郎, 松本裕治, 関根聡. 最尤先行詞候補を用いた日本語名詞句同一指示解析. 情報処理学会論文誌, Vol. 46, No. 3, pp.831-844, 2005.
+- 徳永泰浩, 乾健太郎, 松本裕治. チャット対話における発話間の継続関係と応答関係の同定. 自然言語処理, Vol. 12, No. 1, pp.79-105, 2005.
+- 藤田篤, 乾健太郎, 松本裕治. 自動生成された言い換え文における不適格な動詞格構造の検出. 情報処理学会論文誌, Vol. 45, No. 4, pp.1176-1187, 2004.
+- 乾孝司, 乾健太郎, 松本裕治. 接続標識「ため」に基づく文書集合からの因果関係知識の自動獲得. 情報処理学会論文誌, Vol. 45, No. 3, pp.919-933, 2004.
+- 飯田龍, 乾健太郎, 松本裕治. 文脈的手がかりを考慮した機械学習による日本語ゼロ代名詞の先行詞同定. 情報処理学会論文誌, Vol. 45, No. 3, pp.906-918, 2004.
+- 藤田篤, 乾健太郎. 語彙・構文的言い換えにおける変換誤りの分析. 情報処理学会論文誌, Vol. 44, No. 11, pp.2826-2838, 2003.
+- Tetsuro Takahashi, Kozo Nawata, Kentaro Inui and Yuji Matsumoto. Effects of structural matching and paraphrasing in question answering. IEICE Transactions on Information and Systems, Vol. E86-D, No. 9, pp. 1677-1685, 2003. \[[PDF](./papers/03IEICE-Takahashi.pdf)\]
+- 乾孝司, 乾健太郎. 複数のパーザを利用した統計的部分係り受け解析. 情報処理学会論文誌, Vol. 42, No. 12, pp. 3160-3172, 2001.
+- Virach Sornlertlamvanich, Kentaro Inui, Hozumi Tanaka, Takenobu Tokunaga and Toshiyuki Takezawa. Empirical support for new probabilistic generalized LR parsing. Journal of Natural Language Processing, Vol. 6, No. 2, pp.3-22, 1999. \[[PDF](./papers/99JANLP.pdf)\]
+- Atsushi Fujii, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Selective sampling for example-based word sense disambiguation. Computational Linguistics, Vol. 24, No. 4, pp.573-597, 1998. \[[PDF](./papers/98CL.pdf)\]
+- 白井清昭, 乾健太郎, 徳永健伸, 田中穂積. 統計的構文解析における構文的統計情報と語彙的統計情報の統合について. 自然言語処理, Vol. 5, No. 3, pp.85-106, 1998.
+- Kentaro Inui, Virach Sornlertlamvanich, Hozumi Tanaka and Takenobu Tokunaga. Probabilistic GLR parsing: a new formalization and its impact on parsing performance. Journal of Natural Language Processing, Vol. 5, No. 3, pp.33-52, 1998. \[[PDF](./papers/98JANLP.pdf)\]
+- 乾健太郎, 徳永健伸, 田中穂積. 意思決定理論に基づく発話プランニング. 人工知能学会誌, Vol. 12, No.5, pp. 108-117, 1997.
+- Atsushi Fujii, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Case contribution in example-based verb sense disambiguation. Journal of Natural Language Processing, Vol. 4, No. 2, pp.111-123, 1997.
+- Kentaro Inui and Takenobu Tokunaga and Hozumi Tanaka. Dependency-directed control of text generation using functional unification grammar. New Generation Computing, Vol. 14, No. 2, pp. 169-193, 1994.
+- 乾健太郎, 徳永健伸, 田中穂積. 文章生成における推敲機能の実現について. 人工知能学会誌, Vol. 8, No. 5, pp. 215-230, 1993.
+
+## 国際会議 / Conference Papers
+
+- Tetsuji Nakagawa, Kentaro Inui and Sadao Kurohashi. Dependency tree-based sentiment classification using CRFs with hidden variables. In Proceedings of the North American Chapter of the Association for Computational Linguistics and Human Language Technologies (NAACL-HLT), 2010 (to appear).
+- Suguru Matsuyoshi, Megumi Eguchi, Chitose Sao, Koji Murakami, Kentaro Inui and Yuji Matsumoto. Annotating event mentions in text with modality, focus, and source information. In Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC), 2010 (to appear).
+- Yoshikiyo Kato, Daisuke Kawahara, Kentaro Inui, Sadao Kurohashi, and Tomohide Shibata. Identifying the Information Sender Configuration of Web Pages. In Proceedings of the IEEE/ACM/WIC International Conference on Web Intelligence, Sep. 2009
+- Naoya Inoue, Ryu Iida, Kentaro Inui and Yuji Matsumoto. Resolving Direct and Indirect Anaphora for Japanese Definite Noun Phrases. In Proceedings of Conference of the Pacific Association for Computational Linguistics (PACLING), 2009.
+- Eric Nichols, Koji Murakami, Kentaro Inui and Yuji Matsumoto. Constructing a Scientific Blog Corpus for Information Credibility Analysis. In Proceedings of Conference of the Pacific Association for Computational Linguistics (PACLING), 2009.
+- Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Capturing Salience with a Trainable Cache Model for Zero-anaphora Resolution. In Proceedings of the Joint Conference of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing (ACL-IJCNLP), Aug. 2009.
+- Susumu Akamine, Daisuke Kawahara, Yoshikiyo Kato, Tetsuji Nakagawa, Kentaro Inui, Sadao Kurohashi, and Yutaka Kidawara. WISDOM: A Web Information Credibility Analysis System. In Proceedings of the ACL-IJCNLP 2009, Software Demonstrations, pp.1-4, Aug. 2009.
+- Koji Murakami, Shouko Masuda, Suguru Matsuyoshi, Eric Nichols, Kentaro Inui and Yuji Matsumoto. Annotating Semantic Relations Combining Facts and Opinions. In Proceedings of The Third Linguistic Annotation Workshop (LAW III), pp.150-153, 2009.
+- Koji Murakami, Eric Nichols, Suguru Matsuyoshi, Asuka Sumida, Shouko Masuda, Kentaro Inui and Yuji Matsumoto. Statement Map: Assisting Information Credibility Analysis by Visualizing Arguments. Proceedings of the Second Workshop on Information Credibility on the Web (WICOW), 2009. \[[PDF](./papers/0904WICOW-Murakami.pdf)\]
+- Kentaro Inui, Shuya Abe, Hiraku Morita, Megumi Eguchi, Asuka Sumida, Chitose Sao, Kazuo Hara, Koji Murakami, and Suguru Matsuyoshi. Experience Mining: Building a Large-Scale Database of Personal Experiences and Opinions from Web Documents. Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web Intelligence, pp314-321, Dec. 2008 \[[PDF](./papers/0812WI-Inui.pdf)\]
+- Daisuke Kawahara, Sadao Kurohashi, and Kentaro Inui. Grasping Major Statements and their Contradictions Toward Information Credibility Analysis of Web Contents. In Proceedings of the 2008 IEEE/WIC/ACM International Conference on Web Intelligence, pp393-397, Dec. 2008 \[[PDF](./papers/0812WI-Kawahara.pdf)\]
+- Suguru Matsuyoshi, Koji Murakami, Yuji Matsumoto, and Kentaro Inui. A database of relations between predicate-argument structures for recognizing textual entailment and contradiction. Proceedings of the Second International Symposium on Universal Communication (ISUC), Dec. 2008 \[[PDF](./papers/0812ISUC-Matsuyoshi.pdf)\]
+- Tetsuji Nakagawa, Takuya Kawada, Kentaro Inui, and Sadao Kurohashi. Extracting subjective and objective evaluation expressions from the Web. The Second International Symposium on Universal Communication (ISUC), Dec. 2008
+- Susumu Akamine, Yoshikiyo Kato, Kentaro Inui, and Sadao Kurohashi. Using Appearance Information for Web Information Credibility Analysis, In Proceedings of the Second International Symposium on Universal Communication. The Second International Symposium on Universal Communication (ISUC), Dec. 2008
+- Sadao Kurohashi, Susumu Akamine, Daisuke Kawahara, Yoshikiyo Kato, Tetsuji Nakagawa, Kentaro Inui, and Yutaka Kidawara. Information Credibility Analysis of Web Contents. Proceedings of the Second International Symposium on Universal Communication (ISUC), Dec. 2008 \[[PDF](./papers/0812ISUC-kuro.pdf)\]
+- Yoshikiyo Kato, Daisuke Kawahara, Kentaro Inui, Sadao Kurohashi, and Tomohide Shibata. Extracting the Author of Web Pages. Proceedings of the Second Workshop on Information Credibility on the Web (WICOW 2008), pp35-41, Oct. 2008
+- Ryoko Tokuhisa, Kentaro Inui, and Yuji Matsumoto. Emotion classification using massive examples extracted from the Web. In Proceedings of the 22nd International Conference on Computational Linguistics (COLING-2008), pp881-888, Aug. 2008 \[[PDF](./papers/0808COLING-Tokuhisa.pdf)\]
+- Shuya Abe, Kentaro Inui, and Yuji Matsumoto. Two-phased event relation acquisition: coupling the relation-oriented and argument-oriented approaches. In Proceedings of the 22nd International Conference on Computational Linguistics (COLING-2008), pp. 1-8, Aug. 2008 \[[PDF](./papers/0808COLING-Abe.pdf)\]
+- Masaki Noguchi, Kenta Miyoshi, Takenobu Tokunaga, Ryu Iida, Mamoru Komachi, and Kentaro Inui. Multiple Purpose Annotation using SLAT -Segment and Link-based Annotation Tool -. Proceedings of the 2nd Linguistic Annotation Workshop, pp61-64, May. 2008
+- Shuya Abe, Kentaro Inui, and Yuji Matsumoto. Acquiring Event Relation Knowledge by Learning Cooccurrence Patterns and Fertilizing Cooccurrence Samples with Verbal Nouns. In Proceedings of the 3rd International Joint Conference on Natural Language Processing, pp. 497-504, Jan. 2008 \[[PDF](./papers/0801IJCNLP.pdf)\]
+- Mamoru Komachi, Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Learning Based Argument Structure Analysis of Event-nouns in Japanese. Proceedings of the Conference of the Pacific Association for Computational Linguistics (PACLING), pp120-128, Sep. 2007 \[[PDF](./papers/0709PACLING-Komachi.pdf)\]
+- Nozomi Kobayashi, Kentaro Inui, Yuji Matsumoto. Extracting Aspect-Evaluation and Aspect-Of Relations in Opinion Mining. Proceedings of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning(EMNLP-CoNLL), pp1065-1074, 2007.6 \[[PDF](./papers/0707EMNLP.pdf)\]
+- Ryu Iida, Mamoru Komachi, Kentaro Inui, and Yuji Matsumoto. Annotating a Japanese Text Corpus with Predicate-Argument and Coreference Relations. Proceedings of the Linguistic Annotation Workshop, pp132-139, Jun. 2007 \[[PDF](./papers/0706LAW.pdf)\]
+- Hisashi Miyamori, Susumu Akamine, Yoshikiyo Kato, Ken Kaneiwa, Kaoru Sumi, Kentaro Inui, and Sadao Kurohashi. Evaluation data and prototype system WISDOM for information credibility analysis. Proceeding of the Workshop on Information Credibility on the Web, pp25-32, Jun. 2007
+- Hisashi Miyamori, Susumu Akamine, Yoshikiyo Kato, Ken Kaneiwa, Kaoru Sumi, Kentaro Inui, Sadao Kurohashi. Evaluation data and prototype system WISDOM for information credibility analysis. Proceedings of the First International Symposium on Universal Communication, pp234-237, 2007.6
+- Yoshikiyo Kato, Sadao Kurohashi, Kentaro Inui. Classifying information sender of web documents. Proceedings of the First International Symposium on Universal Communication, pp238-241, 2007.6
+- Yoshikiyo Kato, Sadao Kurohashi, and Kentaro Inui. Classifying information sender of web documents. Proceeding of the Workshop on Information Credibility on the Web, pp116-123, May. 2007
+- Nozomi Kobayashi, Kentaro Inui, Yuji Matsumoto. Opinion Mining from Weblogs: Extraction and Structurization. The International Workshop on Data-Mining and Statistical Science (DMSS2006), 2006.
+- Ryu Iida, Kentaro Inui, Yuji Matsumoto. Exploiting Syntactic Patterns as Clues in Zero-Anaphora Resolution. The 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics, pp.625-632, 2006. \[[PDF](./papers/0607COLING-iida.pdf)\]
+- Kentaro Inui, Toru Hirano, Ryu Iida, Atsushi Fujita, Yuji Matsumoto. Augmenting a Semantic Verb Lexicon with a Large Scale Collection of Example Sentences. The 5th International Conference on Language Resources and Evaluation, 2006. \[[PDF](./papers/0605LREC.pdf)\]
+- Nozomi Kobayashi, Ryu Iida, Kentaro Inui and Yuji Matsumoto. Opinion Mining on the Web by Extracting Subject-Attribute-Value Relations. AAAI Spring Symposia on Computational Approaches to Analyzing Weblogs (AAAI-CAAW), 2006.
+- Ryu Iida, Kentaro Inui and Yuji Matsumoto. The Issue of Combining Anaphoricity Determination and Antecedent Identificationin Anaphora Resolution. IEEE International Conference on Natural Language Processing and Knowledge Engineering (IEEE NKP-KE), pp.244-249, 2005.
+- Atsushi Fujita and Kentaro Inui. A Class-oriented Approach to Building a Paraphrase Corpus. The 3rd International Workshop on Paraphrasing (IWP), pp.25-32, 2005.
+- Nozomi Kobayashi, Ryu Iida, Kentaro Inui, Yuji Matsumoto. Opinion Extraction Using a Learning-Based Anaphra Resolution Technique. Poster presentation, The Second International Joint Conference on Natural Language Processing, poster, pp.175-180, 2005.
+- Atsushi Fujita, Kentaro Inui, Yuji Matsumoto. Exploiting Lexical Conceptual Structure for Papraphrase Generation. Natural Language Processing (IJCNLP 2005), Second International Joint Conference, Proceedings, (Lecture Notes in Artificial Intelligence 3651, Robert Dale, Kam-Fai Wong, Jian Su, OiYee Kwong eds.), pp. 908-919, 2005. \[[PDF](./papers/0507IJCNLP-Fujita.pdf)\]
+- Nozomi Kobayashi, Ryu Iida, Kentaro Inui, Yuji Matsumoto. Opinion Mining as Extraction of Attribute-Value Pairs. The First International Workshop on Risk Management Systemswith Intelligent Data Analysis (RMDA-2005), pp.89-98, 2005.
+- Atsushi Fujita, Kentaro Furihata, Kentaro Inui, Yuji Matsumoto, Koichi Takeuchi. Paraphrasing of Japanese Light-verb Constructions Based on Lexical Conceptual Structure. The 2nd ACL Workshop on Multiword Expressions: Integrating Processing (MWE-2004), pp. 9-16, 2004.
+- Nozomi Kobayashi, Kentaro Inui, Yuji Matsumoto, Kenji Tateishi and Toshikazu Fukushima. Collecting Evaluative Expressions for Opinion Extraction. The 1st International Joint Conference on Natural Language Processing, pp.584-589, 2004.
+- Atsushi Fujita, Kentaro Inui, Yuji Matsumoto. Detection of Incorrect Case Assignments in Automatically Generated Paraphrases of Japanese Sentences. The 1st International Joint Conference on Natural Language Processing, pp.14-21, 2004.
+- Takashi Inui, Kentaro Inui, Yuji Matsumoto. What kinds and amounts of causal knowledge can be acquired from text by using connective markers as clues?, Discovery Science 2003, Proc. of the 6th International Conference (Gunter Grieser, Yuzuru Tanaka and Akihiro Yamamoto eds., Lecture Notes in Artificial Intelligence 2843), pp. 180-193, October 2003.
+- Kentaro Inui, Akiko Yamashita and Yuji Matsumoto. Dialogue management for language-based information seeking. The First International Workshop on Language Understanding and Agents for Real World Interaction, pp.32-38, 2003.
+- Kentaro Inui, Atsushi Fujita, Tetsuro Takahashi, Ryu Iida and Tomoya Iwakura. Text simplification for reading assistance. ACL 2003 Workshop: the Second International Workshopon Paraphrasing: Paraphrase Acquisition and Applications, pp.9-16, 2003.
+- Ryu Iida, Kentaro Inui, Hiroya Takamura and Yuji Matsumoto. Incorporating contextual cues in trainable models for coreference resolution. EACL2003 Workshop on the Computational Treatment of Anaphora, 2003.
+- Tetsuro Takahashi, Tomoya Iwakura, Ryu Iida, Atsushi Fujita and Kentaro Inui. KURA: A Transfer-Based Lexico-Structural Paraphrasing Engine. The 6th Natural Language Processing Pacific Rim Symposium, Workshop on Automatic Paraphrasing: Theories and Applications, 2001.
+- Kentaro Inui and Satomi Yamamoto. Corpus-Based Acquisition of Sentence Readability Ranking Models for Deaf People. The 6th Natural Language Processing Pacific Rim Symposium, 2001.
+- Kentaro Inui and Masaru Nogami. A Paraphrase-Based Exploration of Cohesiveness Criteria. Proceedings of the 8th European Workshop on Natural Language Generation, 2001.
+- Masato Tokuhisa, Ryoko Tokuhisa, Kentaro Inui and Naoyuki Okada. Emotion recognition in dialogue. In G. Hatano, N. Okada, and H. Tanabe(eds.). Affective Minds: The 13th Toyota Conference, pp.221-229, Elsevier, 2000.
+- Kentaro Inui, Virach Sornlertlambanich, Hozumi Tanaka and Takenobu Tokunaga. Probablistic GLR parsing. In H. Bunt and A. Nijholt(eds), Advances in Probabilistic and Other Parsing Technologies, pp. 85-104, Kluwer Academic Press, 2000.
+- Takashi Inui and Kentaro Inui. Committee-based Decision Makingin Probabilistic Partial Parsing. Proceedings of the 18th International Conference on Computational Linguistics, pp.348-354, 2000.
+- Naoyuki Okada, Kentaro Inui and Masato Tokuhisa. Towards Affective Integration of Vision, Behavior, and Speech Processing. International Workshop on Integration of Speech and Image Understanding, pp.49-77, 1999.
+- Kentaro Inui and Hirokazu Wakigawa. A POS-tag conversion algorithm for reusing corpora. Proceedings of the Natural Language Pacific-Rim Symposium, pp.56-61, 1999.
+- Naoyuki Okada, Kentaro Inui and Masato Tokuhisa. An affective approach to human-friendly dialogue systems. Conference of Pacific Association for Computational Linguistics, pp.3-15, 1999.
+- Kiyoaki Shirai, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. An empirical evaluation on statistical parsing of Japanese sentencesusing a lexical association statistics. Proceedings of The 3rd Conference on Empirical Methods in Natural Language Processing, pp. 80-87, 1998.
+- Kentaro Inui, Virach Sornlertlamvanich, Tanaka Hozumi and Takenobu Tokunaga. A new formalization of probabilistic LR parsing. Proceedings of International Workshop on Parsing Technologies, pp. 123-134, 1997.
+- Atsushi Fujii, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Design and Evaluation of Semantic-Based Sentence Categorization. The 2nd International Workshop on Information Retrieval with Asian Languages, 1997.
+- Kentaro Inui, Kiyoaki Shirai, Takenobu Tokunaga and Tanaka H. Integrated probabilistic language modeling for statistical parsing. IJCAI-97, poster session, pp.49-50, 1997.
+- Kiyoaki Shirai, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. An empirical study on statistical disambiguation of Japanese dependency structures using a lexically sensitive language model. Natural Language Pacific-Rim Symposium, pp.215-220, 1997.
+- Kentaro Inui, Katsuyuki Sakaniwa, Hiroaki Ishizawa, Takenobu Tokunaga, and Hozumi Tanaka. Incremental Utterance Generation from Fine-grained Utterance Goals. Proceedings of the third Symposium of Pacific Association of Computational Linguistics, pp.155-166, 1997.
+- Virach Sornlertlamvanich, Kentaro Inui, Hozumi Tanaka and Takenobu Tokunaga. An empirical evaluation of probabilistic GLR parsing. Natural Language Pacific-Rim Symposium, pp.169-174, 1997.
+- Atsushi Fujii, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Selective sampling of effective example sentence sets forword sense disambiguation. Proceedings of the Fourth Workshop on Very Large Corpora (WVLC-4), pp.56-69, 1996.
+- Kentaro Inui, Akira Sugiyama, Takenobu Tokunaga, and Hozumi Tanaka. Fine-grained Incremental and Interactive Elaboration in Explanatory Dialogue. Proceedings of the ECAI'96 workshop: Gaps and Bridges: New Directions in Planning and Natural Language Generation, pp.77-82, 1996.
+- Kentaro Inui. The internet: a "natural" channel for language learning. Proceedings of the 18th International Conference on Computational Linguistics (COLING'96), Panel session, pp.1012-1013, 1996.
+- Atsushi Fujii, Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. To what extent does case contribute to verb sense disambiguation. Proceedings of the International Conference on Computational Linguistics, pp.59-64, 1996.
+- Tadashi Kumano, Takenobu Tokunaga, Kentaro Inui, and Hozumi Tanaka. Genesys: An integrated environment for developing systemic functional grammars. Proceeding of the International Workshop on Sharable Natural Language Resources, pp.78-85, 1994.
+- Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Dependency-directed unification of functional unification grammar in text generation. Proceedings of the 4th International Workshop on Natural Language Understanding and Logic Programming, pp.114-128, 1993.
+- Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. Text revision:A model and its implementation. Proceedings of the 6th International Workshopn on Natural Language Generation (R. Dale,E. Hovy, D. Rosner, and O. Stock (eds.), Aspects of Automated Natural Language Generation, LNAI-587), pp.215-230. Springer-Verlag, 1992.
+- Kentaro Inui, Takenobu Tokunaga and Hozumi Tanaka. An architecture for text revision, Proceedings of Natural Language Pacific-Rim Symposium, pp.156-161, 1991.
+
+## 招待講演・パネル / Invited & Panel Talks  
+
+- 大規模言語/世界知識に基づくWeb情報編集の高度化, 電子情報通信学会思考と言語研究会, 2010.5.
+- 機械翻訳シンポジウム「機械翻訳研究の課題と新方式の展望」, パネル討論, 2009.10.
+- 次世代Web情報編集のための言語情報処理技術. ニフティ技術講演会, 2009.10.
+- NTTコミュニケーション科学基礎研究所未来想論，パネル討論「コンピュータが言葉の意味を理解できると何が変わるか？ --検索エンジンを超えるもの--」, 2009.6.
+- 言語情報編集と意味処理基盤. 大阪市立大学大学院創造都市研究科ワークショップ, 2009.6.
+- 言語処理から知に迫る --- Web情報編集の未来像と言語処理技術の現在. 名古屋大学大学院工学研究科電子情報システム専攻特別講義, 2008.12.
+- Common semantic resources for textual statement extraction and organization. [NSF Sponsored Symposium on Semantic Knowledge Discovery, Organization and Use](http://nlp.cs.nyu.edu/sk-symposium/), Nov. 2008
+- 言語処理から知に迫る ---自然言語処理からの再挑戦---. 第23回社会的知能発生学研究会, 2008.8
+- 情報抽出技術の最新動向. 医療情報学会関西支部, 2007年度第5回MTE, 2008.1
+- Web情報分析の未来像と言語処理技術の現在. 北陸先端科学技術大学院大学情報科学研究科セミナー, 2007.11
+- The NAIST Text Corpus and Predicate-Argument Structure Analysis. Tokyo Forum on Advanced NLP and TM, 2007.3.
+- 意見マイニング −Ｗｅｂからの意見情報の抽出と要約−. 電気四学会関西支部専門講習会「分析・可視化による情報の価値化」, 2006.
+- コミュニケーション支援のための言い換え技術の現状と今後. FIT-2005異文化コラボレーションシンポジウム, 2005.
+- 言い換え技術に関する研究動向. 京大-NTT CS研共同研究ユニット発足記念ワークショップ「グローバルコミュニケーションを支える技術」, 2005.
+- 言語表現を言い換える技術. 言語処理学会第8回年次大会チュートリアル講演, 2002.
+- テキスト簡単化による聾者向け読解支援. 九州工業大学第12回技術交流会, 2000.
+- 聾者向け文章読解支援のための日本語言い換え技術に関する研究. 九州工業大学第11回技術交流会, 1999.
+- 対話の実現と対話の支援. 富士通研究所主催「対話処理シンポジウム」招待講演講, 2000.
+- 語学教師と自然言語処理研究者の協力の必要性 ─ インターネット時代の言語学習環境の構築を目指して ─. シンポジウム「大学における外国語教育・学習環境の将来」, 1997.
+- The internet: a "natural" channel for language learning. In Proceedings of the 18th International Conference on Computational Linguistics (COLING'96), Panel session, pp.1012-1013, 1996.
+
+## 解説・総説 / Reviews
+
+- 乾健太郎. 言語情報間の含意･矛盾関係の認識. 月刊言語, 2008年8月号, pp30-37, 2008.8 \[[PDF](./papers/0806Gengo.pdf)\]
+- 鳥澤健太郎, 中川裕志, 黒橋禎夫, 乾健太郎, 吉岡真治, 藤井敦, 喜連川優. キーワードサーチを超える情報爆発サーチ---自然言語処理で価値ある未知をマイニング---. 情報処理, vol. 49, no. 8, pp. 890-896, 2008.8
+- 乾健太郎, 鳥澤健太郎. WWWからの知識獲得： 自然言語処理における新展開. 日本語学, vol. 27, no. 2, pp. 48-61, 2008.2
+- 乾健太郎. 自然言語処理と言い換え. 日本語学, vol.26, no.11, pp50-59, 2007.11 \[[PDF](./papers/0711Nihongogaku.pdf)\]
+- 乾健太郎, 浅原正幸. 自然言語処理の再挑戦 --- 統計的言語処理の向こうに. 日本ファジー学会誌, Vol. 18, No. 10, 2006. \[[PDF](./papers/0610Fuzzy.pdf)\]
+- 加藤恒昭, 乾健太郎, 竹内孔一. 言語情報処理における辞書と語彙概念構造. レキシコンフォーラム, Vol. 2, pp. 1-26, 2006.
+- 乾健太郎. 言い換え技術, 人工知能学辞典, 共立出版, p. 385, 2005.
+- 乾健太郎. 言語生成, 人工知能学辞典, 共立出版, pp. 383-384, 2005.
+- 乾健太郎. 統計的統語解析, 人工知能学辞典, 共立出版, p. 379, 2005.
+- 乾健太郎, 藤田篤. 言い換え技術に関する研究動向. 自然言語処理, Vol. 11, No. 5, pp. 151-198, 2004. \[[PDF](./papers/0411JANLP.pdf)\]
+- 乾健太郎. 言語生成. 土屋俊ほか（編）, AI事典第2版, 共立出版, 2003.
+- 乾健太郎. 言語表現を言い換える技術. 言語処理学会第8回年次大会チュートリアル講演資料集, pp. 1-21, 2002.
+- 乾健太郎, 徳久雅人, 徳久良子, 岡田直之. 感情の生起とその反応. 特集:感情のモデルと工学的応用の動向, 日本ファジィ学会誌. Vol. 12, No. 6, pp. 741-751, 2000. \[[PDF](./papers/0011SOFT.pdf)\]
+- 乾健太郎, 白井清昭. 例文を使って文の解析をしよう. 情報処理, Vol. 41, No. 7, 2000.
+- 乾健太郎. コンピュータが言葉を話せるようになるまでに—言語生成研究の現状と課題—. 人文学と情報処理, No. 21, pp. 37-43, 1999.
+- Naoyuki Okada, Kentaro Inui and Masato Tokuhisa. Integrated mind: what are needed and how to design. Encyclopedia of Library and Information Science, Vol. 68, pp.180-209, Marcel Dekker, 2001.
+- Hozumi Tanaka, Takenobu Tokunaga, K. G. Suresh and Kentaro Inui. Analysis and generation technologies. Proceedings of International Conference on Building and Sharing of Very Large-Scale Knowledge Bases, pp.41-52, 1993.
+- 徳永健伸, 乾健太郎. 1980年代の自然言語生成—3—. 人工知能学会誌, Vol. 6, No. 5, pp. 23-34, 1991. \[[PDF](./papers/9103JSAI.pdf)\]
+- 徳永健伸, 乾健太郎. 1980年代の自然言語生成—2—. 人工知能学会誌, Vol. 6, No. 4, pp. 46-55, 1991. \[[PDF](./papers/9103JSAI.pdf)\]
+- 徳永健伸, 乾健太郎. 1980年代の自然言語生成—1—. 人工知能学会誌, Vol. 6, No. 3, pp. 70-77, 1991. \[[PDF](./papers/9103JSAI.pdf)\]
+
+## 著書・訳書 / Books
+
+- 乾健太郎, 松吉俊. 言語情報編集のための広義モダリティ解析に向けて. JAPIO 2009 YEAR BOOK, 2009.9.
+- 乾健太郎, 藤田篤. 言い換え計算モデルの工学的実現への語彙意味論的アプローチ. レキシコンフォーラム, Vol. 2, pp. 27-56, 2006.
+- 竹内孔一, 乾健太郎, 藤田篤. 語彙概念構造に基づく日本語動詞の統語・意味特性の記述. レキシコンフォーラム, Vol. 2, pp.85-120, 2006.
+- 乾健太郎（訳）. 確率的言語処理. S. Russel and P. Norvig（著）, 古川康一（監訳）. エージェントアプローチ：人工知能, 第2版, 第23章, pp. 844-873, 2008.7
+- Nozomi Kobayashi, Ryu Iida, Kentaro Inui and Yuji Matsumoto. Opinion Mining as Extraction of Attribute-Value Relations. In New Frontiers in Artificial Intelligence, Takashi Washio et al(eds.), Lecture Notes in Artificial Intelligence, Vol. 4012. pp.470-481, Springer-Verlag, 2006.
+- Atsushi Fujita, Kentaro Inui and Yuji Matsumoto. Detection of Incorrect Case Assignments in Paraphrase Generation. Revised Selected Paper from IJCNLP2004, Lecture Notes in Artificial Intelligence, Vol. 3248, pp. 555-565, Springer-Verlag, 2005.
+- Nozomi Kobayashi, Kentaro Inui, Yuji Matsumoto, Kenji Tateishi and Toshikazu Fukushima. Collecting Evaluative Expressions for Opinion Extraction. Revised Selected Paper from IJCNLP2004, Lecture Notes in Artificial Intelligence, Vol. 3248, pp.596-605, Springer-Verlag, 2005.
+- 乾健太郎. 文章生成. 自然言語処理—基礎と応用—, 電子情報通信学会, 第4章, pp.116-158, 1999.
+- Bateman, J. A. Sentence generation and systemic grammar. 乾健太郎訳. 文生成とシステミック文法. 言語の数理, 岩波講座「言語の科学」第8巻, 第4章, pp.137-194, 岩波書店, 1999.
+- Bateman, J. A. Sentence generation and systemic grammar. 乾健太郎訳. 文生成とシステミック文法. 言語の数理, 岩波講座「言語の科学」第8巻, 第4章, pp.137-194, 岩波書店, 1999.
+
+## 特許・報道 / Patents and Press reports  
+
+- ブログ情報選別おまかせ、伝聞か体験か判断, 朝日新聞, 2008.12.21
+- 個人経験情報の検索システム「みんなの経験」一般公開, 科学新聞, 2008.12.19
+- データベース「みんなの経験」開設. 奈良日日新聞, 2008.12.8
+- 体験談だけをブログから抽出 「経験マイニング」応用、ニフティとNAISTが開発, IT Media News, 2008.12.5
+- ブログやSNS、掲示板… 経験談を検索します, 日経産業新聞, 2008.12.5
+- “みんなの経験”検索　ブログ情報活用, 日刊工業新聞, 2008.12.5
+- ニフティと NAIST が経験情報を分析デモ「経験マイニング」を実用化, The Internet & IT Network, 2008.12.4
+- [ニフティ、奈良先端大と「経験マイニング」の応用手法を共同開発](http://japan.cnet.com/news/media/story/0,2000056023,20384773,00.htm), CNET Japan, 2008.12.4
+- “使える”情報だけを抽出：ブログなどの口コミ、実体験を重視, 日経産業新聞, 2008.9.19
+- 応答生成装置、及び応答生成プログラム, 特願2008-2259, 2008.1
+- 応答生成装置、及び応答生成プログラム, 特願2008-2258, 2008.1
+- 文整形装置及び文整形プログラム, 特願2008-1526, 2008.1
+- 質問内容抽出装置と質問内容抽出方法, 2007-37033, 2007.2
+- [日本語を簡単な日本語に言い換えるー福祉的コミュニケーション支援に向けてー](http://www.sci-news.co.jp/news/200203/140322.htm), 科学新聞, 2002.3.22
+
+## 国内会議・研究会・その他
+
+- 乾健太郎, 飯田龍. 日本語書き言葉コーパスへの重層的意味情報付与 〜照応・共参照，述語項構造，モダリティ，談話関係〜, 科研費特定研究「日本語コーパス」平成21年度全体会議予稿集, 2009.9. \[[PDF](./papers/0909JNC.pdf)\]
+- 江口萌, 松吉俊, 佐尾ちとせ, 乾健太郎, 松本裕治. 日本語文章の事象に対する判断情報アノテーション. 情報処理学会研究報告, 自然言語処理研究会, 2009-NL-193, 2009.9.
+- 赤峯享, 加藤義清, 河原大輔, 新里圭司, 乾健太郎, 黒橋禎夫, 木俵豊. Webページの大規模収集・検索基盤. 情報処理学会研究会Vol.2009-DBS-148 No.14, 2009.7.
+
+- 中川哲治, 乾健太郎, 黒橋禎夫. 隠れ変数を持つ条件付き確率場による依存構造木の評価極性分類. 情報処理学会研究報告, 自然言語処理研究会, 2009-NL-192, 2009. 2009.7.
+- 村上浩司, 増田祥子, 松吉俊, Eric Nichols, 乾健太郎, 松本裕治. 複数文書から抽出した言明間の意味的関係の整理と関係付与. 情報処理学会研究報告, 自然言語処理・言語理解とコミュニケーション合同研究会, 信学技報 NLC2009-4, 2009-NL-192, 2009.
+- 稲邑哲也，柴田智広，瀬名秀明，橋本敬，川合伸幸，宮下敬宏，櫻井圭記，清水正宏，大武美保子，細田耕，梅田聡，乾健太郎. SIGVerse:身体的認知・運動を伴う社会エージェントのためのシミュレータープラットフォーム. 人工知能学会全国大会, 2009.6.
+- 稲邑哲也，柴田智広，瀬名秀明，橋本敬，川合伸幸，宮下敬宏，櫻井圭記，清水正宏，大武美保子，細田耕，梅田聡，乾健太郎. 社会的インタラクションを実装可能なシミュレータープラットフォーム 〜SIGVerse: 社会的知能発生シミュレータ〜. 日本機械学会ロボティクス・メカトロニクス講演会, No.09-4, 2009.5.
+- 井之上直也, 飯田龍, 乾健太郎, 松本裕治. 指定指示・代行指示を区別した指示連体詞の照応解析. 言語処理学会第15回年次大会発表論文集, pp372-375, 2009.3
+- 村上浩司, 増田祥子, 松吉　俊, 乾健太郎, 松本裕治. 言明間の意味的関係の体系化とコーパス構築. 言語処理学会第15回年次大会発表論文集, pp602-605, 2009.3
+- 阿部修也, 江口萌, 隅田飛鳥, 大崎梓, 乾健太郎. みんなの経験：ブログから抽出したイベントおよびセンチメントのＤＢ化. 言語処理学会第15回年次大会発表論文集, pp296-299, 2009.3
+- Eric Nichols, Koji Murakami, Kentaro Inui, and Yuji Matsumoto. Constructing a Scientific Blog Corpus for Information Credibility Analysis. 言語処理学会第15回年次大会発表論文集, pp176-179, Mar. 2009
+- 水野淳太, 乾健太郎, 松本裕治. ウェブニュースを利用した雑談対話システム. 人工知能学会言語・音声理解と対話処理研究会資料, SIG-SLUD-A803, pp1-6, 2009.3
+- 清水友裕, 乾健太郎, 松本裕治. 雑談対話のための評価表現を利用する相槌. 人工知能学会言語・音声理解と対話処理研究会資料, SIG-SLUD-A803, pp7-12, 2009.3
+- 飯田龍, 乾健太郎, 松本裕治. 根拠情報抽出の課題設計と予備実験. 言語処理学会第15回年次大会発表論文集, pp817-820, 2009.3
+- 佐尾ちとせ, 江口萌, 松吉　俊, 乾健太郎. 日本語文のモダリティ・極性情報を捉えるために. 言語処理学会第15回年次大会発表論文集, pp793-796, 2009.3
+- 松吉俊, 村上浩司, 増田祥子, 松本裕治, 乾健太郎. 事象間関係知識の整備と類似・対立認識への応用. 情報処理学会研究報告, 自然言語処理研究会, 2008-NL-187, 2008.9
+- 松吉俊, 村上浩司, 松本裕治, 乾健太郎. 含意・矛盾認識のための事象間関係知識の整備. 第7回情報科学技術フォーラム(FIT2008), vol.2, pp231-232, 2008.9
+- 村上浩司, 松吉俊, 増田祥子, 松本裕治, 乾健太郎. 言論マップ生成のための事象間類似・対立関係の認識. 第7回情報科学技術フォーラム(FIT2008), vol.2, pp261-262, 2008.9
+- 加藤義清, 河原大輔, 乾健太郎, 黒橋禎夫, 柴田知秀. Webページの著者の同定. 第7回情報科学技術フォーラム(FIT2008), vol.2, pp125-126, 2008.9
+- 赤峯享, 加藤義清, 乾健太郎, 黒橋禎夫. Web情報信頼性分析のためのページ外観情報の抽出. 第7回情報科学技術フォーラム (FIT2008), vol.2, 2008.9  
+    
+- 中川哲治, 川田拓也, 乾健太郎, 黒橋禎夫. Web文書からの主観的・客観的評価表現の抽出. 第7回情報科学技術フォーラム(FIT2008), vol.2, 2008.9
+- 河原大輔, 黒橋禎夫, 乾健太郎. 主要・対立表現の俯瞰的把握 − ウェブの情報信頼性分析に向けて. 情報処理学会研究報告,自然言語処理・言語理解とコミュニケーション合同研究会, 信学技報 2008-NL-186, vol.108, no.141, pp49-54, 2008.7
+- 阿部修也, 乾健太郎, 松本裕治. 2種類のアンカー情報と共起パターンの組み合わせによる事態間関係獲得. 情報処理学会研究報告,自然言語処理・言語理解とコミュニケーション合同研究会, 信学技報 2008-NL-186, vol.108, no.141, pp19-24, 2008.7
+- 村上浩司, 松吉俊, 隅田飛鳥, 森田啓, 佐尾ちとせ, 増田祥子, 松本裕治, 乾健太郎,“言論マップ生成課題：言説間の類似・対立の構造を捉えるために. 情報処理学会研究報告,自然言語処理・言語理解とコミュニケーション合同研究会, 信学技報 2008-NL-186, vol.108, no.141, pp55-60, 2008.7
+- 乾健太郎, 原一夫. 経験マイニング：Webテキストからの個人の経験の抽出と分類. 言語処理学会第14回年次大会論文集, pp1077-1080, 2008.3 \[[PDF](./papers/0803ANLP-Inui.pdf)\]  
+    
+- 飯田龍, 小町守, 乾健太郎, 松本裕治. 名詞化された事態表現への意味的注釈付け. 言語処理学会第14回年次大会論文集, pp277-280, 2008.3
+- 東山昌彦, 乾健太郎, 松本裕治. 述語の選択選好性に着目した名詞評価極性の獲得. 言語処理学会第14回年次大会論文集, pp584-587, 2008.3
+- 阿部修也, 乾健太郎, 松本裕治. 文内共起パターンと格要素共有情報による事態間関係知識の獲得. 言語処理学会第14回年次大会論文集, pp797-800, 2008.3
+- 大西良明, 乾健太郎, 松本裕治. 事態間関係知識の整備と含意文生成への応用. 言語処理学会第14回年次大会論文集, pp1152-1155, 2008.3
+- 徳久良子, 乾健太郎. Webから獲得した感情生起要因コーパスに基づく感情推定. 言語処理学会第14回年次大会論文集, pp33-36, 2008.3
+- 野口正樹, 三好健太, 徳永健伸, 飯田龍, 小町守, 乾健太郎. 汎用アノテーションツールSLAT. 言語処理学会第14回年次大会論文集, pp269-272, 2008.3
+- 竹内孔一, 乾健太郎, 竹内奈央, 藤田篤. 意味の包含関係に基づく動詞項構造の細分類. 言語処理学会第14回年次大会論文集, pp1037-1040, 2008.3
+- 中川哲治, 宮森恒, 赤峯亨, 乾健太郎, 黒橋禎夫. Web上の客観的記述からの評価情報抽出に関する技術的検討. 語処理学会第14回年次大会論文集, pp344-347, 2008.3
+- 川田拓也, 中川哲治, 森井律子, 宮森恒, 赤峯亨, 乾健太郎, 黒橋禎夫, 木俵豊,“Webテキストにおける評価情報の整理・分類およびタグ付きコーパスの構築. 言語処理学会第14回年次大会論文集, pp524-527, 2008.3
+- 加藤義清, 乾健太郎, 黒橋禎夫. Webページの情報発信者の同定とその関係の抽出. 言語処理学会第14回年次大会論文集, pp737-740, 2008.3
+- 赤峯亨, 宮森恒, 加藤義清, 中川哲治, 乾健太郎, 黒橋禎夫, 木俵豊. Web情報の信頼性検証のための情報分析システムWISDOM. 言語処理学会第14回年次大会論文集, pp721-724, 2008.3
+- 原一夫, 東山昌彦, 乾健太郎, 松本裕治. 経験マイニングのための事実性解析. 情報処理学会第70回全国大会, 第5分冊「情報爆発」時代に向けた新しいIT基盤技術, pp43-44, 2008.3
+- 原一夫, 乾健太郎. 事態抽出のための事実性解析. 情報処理学会研究報告, 自然言語処理研究会, 2008-NL-183, pp75-80, 2008.1
+- 乾健太郎. 言語推論のための知識の表現方法と獲得方法. 第27回医療情報学連合大会シンポジウム「観を考える：知識処理を支える情報哲学」, 2007.11
+- 乾健太郎. 語彙意味論に基づく言い換え計算機構の工学的実現と言い換え知識獲得への応用. 科研費合同シンポジウム『言語処理技術の深化と理論・応用の新展開』, 2007.9
+- 大西良明, 乾健太郎, 松本裕治. 言語表現された推論知識による帰結文生成の技術的課題. 情報処理学会第180回自然言語処理研究会, vol.2007-NL-180, pp55-60, 2007.7
+- 宮森恒, 赤峯享, 加藤義清, 兼岩憲, 角薫, 乾健太郎, 黒橋禎夫,“情報の信頼性分析に向けた評価データおよびプロトタイプシステムWISDOM. 情報処理学会第180回自然言語処理研究会, vol.2007-NL-180, pp103-108, 2007.7
+- 乾健太郎. 事態オントロジー： 言語に基づく推論のためのコトに関する基本知識. 言語処理学会第13回年次大会ワークショップ「言語的オントロジーの構築・連携・利用」論文集, pp27-30, 2007.3.23 \[[PDF](./papers/0703ANLPWS.pdf)\]
+- 関根聡, 乾健太郎, 鳥澤健太郎. 提唱「コーパスベース知識工学」. 言語処理学会第13回年次大会ワークショップ「大規模Web研究機万丈での自然言語処理・情報検索研究」論文集, pp12-15, 2007.3.23
+- 阿部修也, 乾健太郎, 松本裕治. 事態含意名詞の利用と共起パターンの学習による事態間関係知識の獲得. 言語処理学会第13回年次大会発表論文集, pp883-886, 2007.3.22
+- 加藤義清, 黒橋禎夫, 乾健太郎. Web文書の情報発信者クラス分類. 言語処理学会第13回年次大会発表論文集, pp891-894, 2007.3.22
+- 竹内孔一, 乾健太郎, 藤田篤, 竹内奈央. 語彙概念構造に基づく事態上位オントロジーの構築. 言語処理学会第13回年次大会発表論文集, pp859-862, 2007.3.22
+- 小町守, 飯田龍, 乾健太郎, 松本裕治. 事態性名詞の項構造解析における共起尺度と構文パターンの有効性の分析. 言語処理学会第13回年次大会発表論文集, pp47-50, 2007.3.20
+- 近藤光正, 乾健太郎, 松本裕治. Web文書を利用した半教師あり用語抽出. 言語処理学会第13回年次大会論文集, pp127-130, 2007.3.20
+- 飯田龍, 小町守, 乾健太郎, 松本裕治. 日本語書き言葉を対象とした述語項構造と共参照関係のアノテーション: NAISTテキストコーパス開発の経験から. 言語処理学会第13回年次大会発表論文集, pp282-285, 2007.3.
+- 青山桜子, 阿部修也, 大西良明, 乾健太郎, 松本裕治. 事態間関係の獲得のための動詞語釈文の構造化. 言語処理学会第13回年次大会発表論文集, pp286-289, 2007.3.20
+- 野口正樹, 三好健太, 徳永健伸, 飯田龍, 小町守, 乾健太郎,“セグメンテーションとリンクに基づくアノテーションツールの設計と実装. 言語処理学会第13回年次大会発表論文集, pp278-281, 2007.3.20
+- 乾健太郎, 竹内孔一, 藤田篤. 含意関係計算のための事態オントロジーの開発に向けて. 言語理解とオントロジーシンポジウム予稿集, pp13-180, 2007.1. \[[PDF](./papers/0701NLC.pdf)\]
+- 飯田龍, 小町守, 乾健太郎, 松本裕治. NAISTテキストコーパス: 述語項構造と共参照関係のアノテーション. 情報処理学会研究報告, 自然言語処理研究会, vol.2007-NL-177, pp71-78, 2007.1.26
+- 阿部修也, 乾健太郎, 松本裕治. 事態含意名詞を用いた事態間関係知識の獲得. 情報処理学会研究報告, 自然言語処理研究会, 2006-NL-176, 2006.
+- 飯田龍, 乾健太郎, 松本裕治. ゼロ照応解析のための統語的パタンの学習.第5回情報科学技術フォーラム（FIT2006）, 2006  
+    
+- 乾健太郎. 言い換え／含意計算のための事態オントロジー. 『語彙資源の深化とＮＬＰ新時代』科研・合同シンポジウム, 2006.
+- 中野智子, 菅原昌平, 乾健太郎. 視覚障がい者の聞きやすさを考慮した難語の平易化.ヒューマンインタラクションシンポジウム予稿集, 2006.
+- 小林のぞみ, 乾健太郎, 松本裕治. 意見情報抽出のための評価対象・評価視点間の関係同定. 言語処理学会第12回年次大会論文集, pp.65-68, 2006.
+- 廣瀬峰史, 乾健太郎, 松本裕治. レストランドメインにおける意見情報抽出. 言語処理学会第12回年次大会論文集, pp. 69-72, 2006.
+- 阿部修也, 乾健太郎, 松本裕治. 論理関係に基づく複文間の言い換え含意関係の認識と生成. 言語処理学会第12回年次大会論文集, pp.204-207, 2006.
+- 高橋哲朗, 乾健太郎. アノテーションツール"Tagrin"の紹介. 言語処理学会第12回年次大会論文集, pp. 228-231, 2006.
+- 飯田龍, 乾健太郎, 松本裕治. 文の構造を利用した文内ゼロ照応解析. 言語処理学会第12回年次大会論文集, pp. 488-491, 2006.
+- 小町守, 飯田龍, 乾健太郎, 松本裕治. 共起用例と名詞の出現パターンを用いた動作性名詞の項構造解析.言語処理学会第12回年次大会論文集, pp.821-824, 2006.
+- 上野孝治, 飯田龍, 乾健太郎, 松本裕治. 半教師ありクラスタリングによる動詞辞書への大規模用例付与.言語処理学会第12回年次大会論文集, pp.1123-1126, 2006.
+- 小林のぞみ, 乾健太郎, 松本裕治. 意見情報の抽出／構造化のタスク仕様に関する考察. 情報処理学会研究報告,自然言語処理研究会, 2006-NL-171, pp.111-118, 2006.
+- 飯田龍, 小林のぞみ, 乾健太郎, 松本裕治, 立石健二, 福島俊一. 意見抽出を目的とした機械学習による属性-評価値対同定.情報処理学会研究報告, 自然言語処理研究会, 2005-NL-165, pp.21-28, 2005.
+- 藤田篤, 乾健太郎, 松本裕治. 語彙概念構造で表現できる言い換え. 東京大学21世紀COE「心とことば」シンポジウム:語彙概念構造辞書の構築と応用, pp.47-51, 2005.
+- 中野智子, 遠藤淳, 菅原昌平, 乾健太郎, 藤田篤. Webサイトへのアクセシビリティ向上を目的とした難語の平易化.電子情報通信学会技術研究報告, 福祉情報工学研究会, WIT-2005, pp.11-14, 2005.
+- 竹内孔一, 乾健太郎, 藤田篤, 竹内奈央, 阿部修也. 分類の根拠を明示した動詞語彙概念構造辞書の構築. 情報処理学会研究報告,自然言語処理研究会, 2005-NL-169, pp.123-130, 2005.
+- 藤田篤, 乾健太郎. 形態・構文的パターンを用いた言い換えコーパスの構築. 情報処理学会研究報告, 自然言語処理研究会, 2005-NL-170, pp.143-150, 2005.
+- 松本吉司, 乾健太郎, 松本裕治. Webページのテキストセグメント階層構造の抽出. 言語処理学会第11回年次大会論文集, 2005.
+- 平野徹, 飯田龍, 藤田篤, 乾健太郎, 松本裕治. 動詞項構造辞書への大規模用例付与. 言語処理学会第11回年次大会論文集, pp.396-399, 2005.
+- 高橋哲朗, 乾健太郎, 松本裕治. 言語パタンと統計的共起尺度による属性関係抽出. 言語処理学会第11回年次大会論文集, 2005.
+- 小林のぞみ, 飯田龍, 乾健太郎, 松本裕治. 照応解析手法を利用した属性-評価値対および意見性情報の抽出.言語処理学会第11回年次大会論文集, 2005.
+- 植田禎子, 荻野孝野, 飯田龍, 乾健太郎, 奥村学. 照応, 省略, 共参照タグ付コーパスの構築.言語処理学会第11回年次大会論文集, 2005.
+- 飯田龍, 乾健太郎, 松本裕治. 先行文脈と局所文脈を併用した照応性判定モデルの学習. 言語処理学会第11回年次大会論文集, pp., 2005.
+- 藤田篤, 乾健太郎, 松本裕治. 語彙概念構造で表現できる言い換え. 言語処理学会第11回年次大会論文集, pp. 1129-1132, 2005.
+- 高橋哲朗, 乾健太郎, 松本裕治. サブタスク化によるアーキテクチャの共有.言語処理学会第11回年次大会ワークショップ「評価型ワークショップを考える」, 2005.
+- 関根聡, 影浦峡, 奥村学, 乾健太郎. 研究の場としての評価型ワークショップになるために.言語処理学会第11回年次大会ワークショップ「評価型ワークショップを考える」論文集, 2005.
+- 立石健二, 福島俊一, 小林のぞみ, 高橋哲朗, 藤田篤, 乾健太郎, 松本裕治. Web文書集合からの意見情報抽出と着眼点に基づく要約生成. 情報処理学会研究報告, 自然言語処理研究会, 2004-NL-163, pp. 1-8, 2004.
+- 高橋哲朗, 乾健太郎, 松本裕治. テキストから属性関係を抽出する. 情報処理学会研究報告, 自然言語処理研究会, 2004-NL-164, pp.19-24, 2004.
+- 立石健二, 福島俊一, 小林のぞみ, 上出将行, 高橋哲朗, 乾孝司, 藤田篤, 乾健太郎, 松本裕治. Web文書集合からの意見情報抽出と着眼点に基づく要約生成. 情報処理学会第66回全国大会講演論文集, 2004.
+- 乾孝司, 乾健太郎, 松本裕治. 出来事の望ましさ判定を目的とした語彙知識獲得. 言語処理学会第10回年次大会発表論文集, pp. 91-94, 2004.
+- 高橋哲朗, 乾健太郎, 関根聡, 松本裕治. 質問応答に必要な言い換えの分析. 言語処理学会第10回年次大会発表論文集, pp. 309-312, 2004.
+- 松本裕治, 高岡一馬, 浅原正幸, 乾健太郎, 橋本喜代太, 投野由紀夫,大谷朗, Edson Miyamoto, 森田敏生.タグ付きコーパスの格納/検索ツール：茶器. 言語処理学会第10会年次大会発表論文集, pp.405-408, 2004.
+- 藤田篤, 乾健太郎, 松本裕治. 言い換え知識の類型化と例文集構築の試み. 言語処理学会第10回年次大会発表論文集, pp. 420-423, 2004.
+- 降幡建太郎, 藤田篤, 乾健太郎, 松本裕治, 竹内孔一. 語彙概念構造を用いた機能動詞結合の言い換え.言語処理学会第10回年次大会発表論文集, pp.504-507, 2004.
+- 徳久良子, 寺嶌立太, 脇田敏裕, 乾健太郎. 情報検索対話におけるイニシアチブ移行制御.言語処理学会第10回年次大会発表論文集, pp.528-531, 2004.
+- 徳永泰浩, 乾健太郎, 松本裕治. チャット対話における発言の継続関係と応答関係の同定. 言語処理学会第10回年次大会発表論文集, pp.536-539, 2004.
+- 立石健二, 福島俊一, 小林のぞみ, 上出将行, 高橋哲朗, 乾孝司, 藤田篤, 乾健太郎, 松本裕治. Web文書集合からの意見情報抽出と着眼点に基づく要約生成. 言語処理学会第10回年次大会発表論文集, pp.644-647, 2004.
+- 飯田龍, 乾健太郎, 松本裕治, 関根聡. 機械学習による日本語名詞句照応解析の一手法. 言語処理学会第10回年次大会発表論文集, pp.761-764, 2004.
+- 小林のぞみ, 乾健太郎, 松本裕治, 立石健二, 福島俊一. テキストマイニングによる評価表現の収集. 情報処理学会研究報告,自然言語処理研究会, 2002-NL-154, pp.77-84, 2003.
+- 飯田龍, 乾健太郎, 高村大也, 松本裕治. 機械学習によるゼロ代名詞同定の一方法. 情報処理学会研究報告, 自然言語処理研究会, 2002-NL-154, pp.161-168, 2003.
+- 乾孝司, 乾健太郎, 松本裕治. テキストから獲得可能な因果関係知識の類別およびその自動獲得の試み−接続助詞「ため」を含む文を中心に−. 言語処理学会第9回年次大会, pp.707-710, 2003.
+- 高橋哲朗, 縄田浩三, 乾健太郎, 松本裕治. 質問応答における構文的照合と言い換えの効果. 言語処理学会第9回年次大会, pp. 617-620, 2003.
+- 藤田篤, 乾健太郎, 松本裕治. 自動生成した言い換え文における動詞結合価誤りの自動検出手法. 情報処理学会研究報告,自然言語処理研究会, 2003-NL-156, pp.53-60, 2003.
+- 飯田龍, 高村大也, 乾健太郎, 松本裕治. 文脈的手がかりを考慮した機械学習によるゼロ照応解析. 言語処理学会第9回年次大会, pp.585-588, 2003.
+- 岩倉友哉, 乾健太郎, 高橋哲朗, 飯田龍, 藤田篤. 汎用依存構造処理モジュールKURALANG. 言語処理学会第9回年次大会, pp.687-690, 2003.
+- 藤田篤, 乾健太郎, 松本裕治. 平易な表現への言い換えに必要なテキスト修正処理. 第65回情報処理学会全国大会予稿集, 1T6-4, 2003.
+- 山下亜希子, 乾 健太郎, 松本裕治. 半構造化文書に対する情報探索のための対話履歴管理.人工知能学会言語・音声理解と対話処理研究会, pp.45-50, 2002.
+- 乾孝司, 乾健太郎, 松本裕治. 接続助詞「ため」を含む複文から因果関係知識を獲得する. 情報処理学会自然言語処理研究会, NL-150-25, pp.171-178, 2002.
+- 高橋哲朗, 乾健太郎, 松本裕治. テキストの構文的類似度の評価方法について. 情報処理学会自然言語処理研究会, NL-150-24, pp.163-170, 2002.
+- 菅野亜紀, 高岡裕, 米田隆一, 乾 健太郎, 松本裕治. 機械学習による点字表記の解析 - 点訳支援システム構築にむけて -.電子情報通信学会技術研究報告思考と言語研究会, TL2002-12, vol.102, No. 254, pp.9-14, 2002.
+- 藤田篤, 乾健太郎. 語彙的言い換えに必要な知識の部品化. 情報処理学会自然言語処理研究会, NL-149-5, pp. 31-38, 2002.
+- 乾健太郎. 日本語を簡単な日本語に言い換える −福祉的コミュニケーション支援に向けて−.さきがけ研究21「情報と知」領域研究報告会, 科学技術振興事業団, 2001.
+- 橋本さち恵, 乾健太郎, 白井清昭, 徳永健伸, 田中穂積. 日本語文生成における照応表現の選択.情報処理学会自然言語処理研究会, NL-143-5, pp.33-40, 2001.
+- 乾健太郎. 読解支援を目的とするテキスト簡単化の実現に向けて：課題と方法論. 電子情報通信学会思考と言語研究会, TL2001-23, 2001.
+- 神田慎哉, 藤田篤, 乾健太郎. 連用節主節化に関する規則の追試と洗練. 第15回人工知能学会全国大会, 1A1-06, 2001.
+- 岩倉友哉, 高橋哲朗, 乾健太郎. 不完全な内部表現および変換規則を用いた言い換えの実現方法. 第15回人工知能学会全国大会, 1A1-08, 2001.
+- 徳久良子, 乾健太郎, 徳久雅人, 岡田直之. 言語コーパスにおける感情生起要因と感情クラスの注釈づけ.人工知能学会言語・音声理解と対話処理研究会資料, SLUD-31, 2001.
+- 乾健太郎. コミュニケーション支援のための言い換え. 言語処理学会第7回年次大会併設ワークショップ, pp.73-78, 2001.
+- 藤田篤, 乾健太郎. 語釈文を利用した普通名詞の同概念語への言い換え. 言語処理学会第7回年次大会, pp.331-334, 2001.
+- 野上優, 乾健太郎. 結束性を考慮した連体修飾節の言い換え. 言語処理学会第7回年次大会, pp.339-342, 2001.
+- 高橋哲朗, 岩倉友哉, 乾健太郎. 不完全な構造変換規則による言い換えの実現方法. 言語処理学会第7回年次大会, pp. 335-338, 2001.
+- 徳久良子, 乾健太郎, 徳久雅人, 岡田直之. 規模とコストを考慮した感情タグつき言語コーパスの作成方法.電子情報通信学会総合大会ワークショップ「心を持つロボット, 対話するロボット」講演論文集, 2001.
+- 山本聡美, 乾健太郎, 乾裕子. 聾者向け読解支援のための文可読性基準のモデル化. 情報処理学会研究報告自然言語処理研究会, 2001-NL-141, pp.131-136, 2001.
+- 藤田篤, 乾健太郎, 乾裕子. 名詞言い換えコーパスの作成環境. 電子情報通信学会思考と言語研究会, TL2000-32, pp. 51-58, 2000.
+- 乾健太郎. テキスト簡単化による聾者向け読解支援 —現状と展望—. 電子情報通信学会福祉情報工学研究会, WIT2000-34, pp.43-48, 2000.
+- 乾孝司, 乾健太郎. 確率的に一般化された委員会方式による統計的構文解析. 第8回電子情報通信学会九州支部学生会講演会, 2000.
+- 野上優, 藤田篤, 乾健太郎. 文分割による連体修飾節の言い換え. 言語処理学会第6回年次大会, pp.125-128, 2000.
+- 乾孝司, 乾健太郎. 確信度つき委員会方式による部分係り受け解析. 言語処理学会第6回年次大会, pp.471-474, 2000.
+- 山本聡美, 乾健太郎, 野上優, 藤田篤, 乾裕子. 聾者向け文章読解支援のための文可読性基準の調査.情報処理学会自然言語処理研究会, NL-135, pp.129-136, 2000.
+- 徳久良子, 徳久雅人, 乾健太郎, 岡田直之. 相手の情緒を理解する対話システムの構築に向けて：情緒タグつき対話コーパスの構築.電子情報通信学会思考と言語研究会, TL99-7, pp.13-22, 1999.
+- 徳久雅人, 貞光康, 乾健太郎, 岡田直之. 統合的知能エージェントにおける並列分散処理手法. 電子情報通信学会総合大会, AI98-78/KBSE98-48, pp.15-22, 1999.
+- 脇川浩和, 乾健太郎. 異なる品詞体系に基づいて付与された言語コーパスの品詞タグ情報を再利用する. 言語処理学会第5回年次大会, pp.297-300, 1999.
+- 乾孝司, 乾健太郎. 統計的部分構文解析器のふるまいについて. 言語処理学会第5回年次大会ワークショップ予稿集, pp.33-40, 1999.
+- 乾健太郎, 脇川浩和. 品詞タグつきコーパスにおける品詞体系の変換. 情報処理学会自然言語処理研究会, NL-132, pp. 87-94, 1999.
+- 滑川裕樹, 乾健太郎, 徳永健伸, 田中穂積. 照応・省略を含む日本語論説文生成. 言語処理学会第5回年次大会予稿集, pp. 153-156, 1999.
+- 乾健太郎, 山本聡美, 野上優, 藤田篤, 乾裕子. 聾者向け文章読解支援における構文的言い換えの効果について.電子情報通信学会福祉情報工学研究会, WIT99-2, pp.9-16, 1999.
+- 乾孝司, 乾健太郎. 統計的部分係り受け解析における係り受け確率の利用法−コーパス中の構文タグ誤りの検出−.情報処理学会自然言語処理研究会, NL-134, pp.15-22, 1999.
+- 白井清昭, 乾健太郎, 徳永健伸, 田中穂積. 最大エントロピー法による確率モデルのパラメタ推定に有効な素性の選択について.言語処理学会第4回年次大会. pp.356-359, 1998.
+- 乾健太郎, 白井清昭, 徳永健伸, 田中穂積. 統計に基づく部分係り受け解析. 言語処理学会第4回年次大会. pp. 386-389, 1998.
+- Virach Sornlertlamvanich, Kentaro Inui, Kiyoaki Shirai, Hozumi Tanaka and Takenobu Tokunaga. Incorporating probabilistic parsing intoan LR parser - LR table engineering (4) -. NL97-119, pp.61-68, Information Processing Sciety of Japan, 1997.
+- 藤井敦, 乾健太郎, 徳永健伸, 田中穂積. 単語多義性解消法の比較検討. 情報処理学会自然言語処理研究会, NL-119, pp.45-52, 1997.
+- Virach Sornlertlamvanich, Kentaro Inui, Hozumi Tanaka and Takenobu Tokunaga. A New Probabilistic LR Parsing. Proceedings of the thirdAnnual Meeting of the Association for Natural Language Processing, pp.301-304, 1997.
+- 藤井敦, 乾健太郎, 徳永健伸, 田中穂積. コーパスに基づく単語多義性解消システムの評価法について.言語処理学会第3回年次大会. pp.305-308, 1997.
+- 白井清昭, 乾健太郎, 徳永健伸, 田中穂積. 最大エントロピー法を用いた格の依存関係の学習. 言語処理学会第3回年次大会. pp.337-340, 1997.
+- Katsuyuki Sakaniwa, Kentaro Inui, Hiroaki Ishizawa, Takenobu Tokunaga and Hozumi Tanaka. A model for surface generation offine-grained incremental utterences. Proceedings of the third AnnualMeeting of the Association for Natural Language Processing, pp. 517-520, 1997.
+- 藤井敦, 乾健太郎, 徳永健伸, 田中穂積. 動詞多義性解消における格要素の貢献度について. 情報処理学会自然言語処理研究会, Vol. 96, No. 7, pp.55-62, 1996,
+- 橋田浩一, 伝康晴, 長尾確, 柏岡秀紀, 酒井佳一, 島津明, 中野幹生, 乾健太郎. DiaLeague'96春場所の報告と今後の展望. 人工知能学会言語・音声理解と対話処理研究会, SLUD-14, pp.39-46, 1996.
+- 白井清昭, 乾健太郎, 徳永健伸, 田中穂積. 最大エントロピー法を用いた単語bigramの推定.情報処理学会自然言語処理研究会, NL116-4, pp.35-42, 1996.
+- 乾健太郎, 白井清昭, 徳永健伸, 田中穂積. 種々の制約を統合した統計的日本語文解析. 情報処理学会自然言語処理研究会, NL116-6, pp.35-42, 1996.
+- 藤井敦, 乾健太郎, 徳永健伸, 田中穂積. 効用最大化法に基づく多義性解消用事例の選択的収集. 情報処理学会自然言語処理研究会, Vol. 96, No. 56, pp.37-43, 1996.
+- 橋田浩一, 伝康晴, 長尾確, 柏岡秀紀, 酒井佳一, 島津明, 中野幹生, 乾健太郎. DiaLeague'96春場所の報告と今後の展望. 人工知能学会第10回全国大会, pp.355-358, 1996.
+- 白井清昭, 乾健太郎, 徳永健伸, 田中穂積. 統計的日本語文解析における種々の統計量の扱いについて.自然言語処理シンポジウム「大規模資源と自然言語処理」, 1996.
+- 坂庭克幸, 乾健太郎, 徳永健伸, 田中穂積. 単一化に基づく漸進的発話生成. SIG-SLUD（SIG-J-9601-8）, 1996.
+- 白井太三, 乾健太郎, 太田武昭, 徳永健伸, 田中穂積. 日本語学習者用電子化辞書の開発に向けて.言語処理学会第2回年次大会予稿集, pp.405-408, 1996.
+- 藤井敦, 乾健太郎, 徳永健伸, 田中穂積. 多義性解消に用いる事例の獲得. 言語処理学会第2回年次大会, pp. 261-264, 1996,
+- 杉山聡, 乾健太郎, 徳永健伸, 田中穂積. 談話構造の伝達を目的とする発話の生成. 人工知能学会言語・音声理解と対話処理研究会, 1996.
+- 乾健太郎, 徳永健伸, 田中穂積. 協調的対話の意思決定理論的説明. 言語処理学会第1回年次大会, pp.77-80, 1995.
+- 杉山聡, 乾健太郎, 徳永健伸, 田中穂積. 対話における即応的/熟考的な談話プランニングの制御について.情報処理学会第53回全国大会, pp.105-106, 1995.
+- 乾健太郎, 徳永健伸, 田中穂積. 確率的制約にもとづく発話プランニング. 情報処理学会自然言語処理研究会, NL103-4, pp.25-32, 1994.
+- 徳永健伸, 乾健太郎. ANLP'92およびIWNLG'92の報告. 情報処理学会自然言語処理研究報告, NL89-12, 1992.
+- 乾健太郎, 徳永健伸, 田中穗積. 文章生成における推敲機能の実現について. 情報処理学会自然言語処理研究報告, NL92-03, 1992.
+- 徳永健伸, 岩山真, 乾健太郎, 田中穂積. 日本語語順の推定モデルとその応用. 情報処理学会自然言語処理研究報告, NL81-02, 1991.
+- 乾健太郎, 徳永健伸, 田中穂積. 文章生成における推敲の役割. 情報処理学会自然言語処理研究報告, NL83-07, 1991.

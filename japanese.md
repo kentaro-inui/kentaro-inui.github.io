@@ -51,8 +51,8 @@ Masdar City, Building 1B, 3rd Floor, Abu Dhabi, UAE
 
 - 研究発表
     - [研究室の研究発表一覧](https://www.nlp.ecei.tohoku.ac.jp/research/publications/)（2010年以降）
-    - [以前の研究発表一覧](https://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html)  
-        
+    - [以前の研究発表一覧](./previous_publications/)
+
 
 ### 学会活動等
 
