@@ -3,6 +3,7 @@
 
 [International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| **Patents** \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- 中尾光之, 高橋容市, 乾健太郎. 睡眠評価装置、プログラム、睡眠評価方法及び学習装置. 出願番号19/216,154, 公開番号US-2025-0366792-A1 , 2025.
 - Jun Suzuki, Sho Takase, Kentaro Inui, Naoaki Okazaki, Shun Kiyono. DEVICE,METHOD AND PROGRAM FOR NATURAL LANGUAGE PROCESSING. US012443793B2, 2025. [link](https://patents.justia.com/patent/12443793)
 - 中尾光之, 高橋容市, 乾健太郎. 睡眠評価装置、プログラム、睡眠評価方法及び学習装置. 特願2024-089571, 2024.
 - Jun Suzuki, Sho Takase, Kentaro Inui, Naoaki Okazaki, Shun Kiyono. DEVICE,METHOD AND PROGRAM FOR NATURAL LANGUAGE PROCESSING. US20240005093AI, 2024. [link](https://patents.justia.com/patent/20240005093)
