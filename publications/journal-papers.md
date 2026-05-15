@@ -3,6 +3,7 @@
 
 [International Conferences](./international-conferences) \| **Journal Papers** \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- Machi Shimmei, Masaki Uto, Yuichiroh Matsubayashi, Kentaro Inui, Aditi Mallavarapu, & Noboru Matsuda. Misconception-Aware Prompting Can Generate Authentic Analytical Multiple-Choice Questions. IEEE Access, 14, 53513–53528 (2026). [paper](https://ieeexplore.ieee.org/document/11475449)
 - 古橋萌々香, 舟山弘晃, 松林優一郎, 震明万智, 磯部順子, 石井雄隆, 乾 健太郎. 答案診断グラフを用いた国語記述式問題のための論理構造に基づくフィードバック自動生成. 自然言語処理, Vol.33, No.1, March 2026.
 - Hiroaki Funayama, Yuichiroh Matsubayashi, Yuya Asazuma, Tomoya Mizumoto, Kentaro Inui. Cross-prompt Pre-finetuning of Language Models for Short Answer Scoring. The International Journal of Artificial Intelligence in Education, July 2025.
 - Yuki Nakamura, Jun Suzuki, Takumi Ito, Kentaro Inui. Deterministic Compression of Word Embeddings. IEEE Access, February 2025. [paper](https://www.researchgate.net/publication/389415640_Deterministic_Compression_of_Word_Embeddings)
