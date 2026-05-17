@@ -48,12 +48,12 @@ Keywords: language and vision-language model interpretability, reasoning, knowle
 
 - Program Co-chair for [EACL 2026](https://2026.eacl.org/)
 - General Chair for [IJCNLP-AACL 2025](https://2025.aaclnet.org/)
-- Chairperson of [Association for Natural Language Processing](https://www.anlp.jp/) (2022/3-2024/3)
-- Area Co-chair of [Association for Natural Language Processing](https://www.anlp.jp/en/index.html) (3/2022-present)
+- Chairperson of [Association for Natural Language Processing](https://www.anlp.jp/en/index.html) (2022/3-2024/3)
 - ACL Rolling Review (ARR) Action Editor (2021/5-present)
 - Workshop Co-chair for ACL-IJCNLP 2021
 - Vice-chairperson of [Association for Natural Language Processing](https://www.anlp.jp/en/index.html) (3/2020-3/2022)
 - Workshop Co-chair for ACL-IJCNLP 2021
+- Secretary for [Asian Federation of Natural Language Processing](https://www.afnlp.org/web/) (2019-2021)
 - Area Co-chair for [COLING 2020](https://coling2020.org/)
 - Area Co-chair for [ACL 2020](https://acl2020.org/)
 - General Chair of [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/)
