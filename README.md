@@ -22,7 +22,7 @@ I am a Professor in the NLP Department at MBZUAI in UAE. My research encompasses
 
 ### Research
 
-Keywords: language and vision-language model interpretability, reasoning, knowledge representation, discourse understanding, trustworthy AI, metacognition, cognitive modeling, computational argumentation, automated writing evaluation
+Keywords: interpretability in language and multimodal models, world modeling, interpretable reasoning, knowledge representation and integration, discourse understanding, computational pragmatics, cognitive and metacognitive modeling, computational argumentation, trustworthy AI, computational linguistics
 - [Publications](./publications/international-conferences)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=38_o3-kAAAAJ)
 - [Publications from the MBZUAI Model Interpretability Team](https://www.mint-nlp-mbzuai.com/publications)
