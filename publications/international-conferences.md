@@ -3,6 +3,7 @@
 
 **International Conferences** \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- Ruben Solozabal, Velibor Bojkovic, Hilal Alquabeh, Klea Ziu, Kentaro Inui, Martin Takac. WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention. International Conference on Machine Learning (ICML2026), July 2026.
 - Qin Dai, Benjamin Heinzerling, Kentaro Inui. Cell-Based Representation of Relational Binding in Language Models. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), July 2026.
 - Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, Sho Yokoi. Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), July 2026.
 - Steven Coyne, Diana Galvan-Sosa, Ryan Spring, Machi Shimmei, Michael Zock, Keisuke Sakaguchi, Kentaro Inui. How Well Does AI-Generated Feedback Work? Intrinsic and Extrinsic Evaluation across more than 20,000 EFL Essay Drafts. The 27th International Conference on Artificial Intelligence in Education (AIED 2026 Late Breaking Results), June 2026.
