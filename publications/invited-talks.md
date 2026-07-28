@@ -3,7 +3,7 @@
 
 [International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| **Invited Talks** \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
--乾健太郎. LLMは何をどのように記憶しているか.【第102回】 大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」, July 2026.
+- 乾健太郎. LLMは何をどのように記憶しているか.【第102回】 大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」, July 2026.
 - 乾健太郎. How can We Build Trust in Automated Writing Evaluation?. the 24th International Conference on Artificial Intelligence in Education(AIED2023), July 2023.
 - 乾健太郎. 記念パネル討論「情報科学の最前線:AIの進化がもたらす人間社会へのインパクトに迫る」. 情報科学研究科創立30周年記念行事, July 2023.
 - 乾健太郎. 言語処理の人工知能最前線 〜最先端の技術開発と社会実装〜. 工学院大学情報学先端技術特別講義, July 2023.
