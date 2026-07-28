@@ -3,6 +3,7 @@
 
 **International Conferences** \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- Nurdaulet Mukhituly, Muhammad Cendekia Airlangga, Rifo Ahmad Genadi, Nhi Hoai Doan, Amirbek Djanibekov, Samuel Munachiso Nwadike, Zangir Iklassov, Kentaro Inui. A Unified Safety Subspace Exists in Speech Language Models. Interspeech 2026, 2026
 - Ruben Solozabal, Velibor Bojkovic, Hilal Alquabeh, Klea Ziu, Kentaro Inui, Martin Takac. WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention. International Conference on Machine Learning (ICML2026), July 2026.
 - Qin Dai, Benjamin Heinzerling, Kentaro Inui. Cell-Based Representation of Relational Binding in Language Models. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), July 2026.
 - Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, Sho Yokoi. Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), July 2026.
