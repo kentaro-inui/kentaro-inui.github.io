@@ -3,6 +3,13 @@
 
 **International Conferences** \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- Joe Stacey, Hadas Orgad, Kentaro Inui, Benjamin Heinzerling, Nafise Sadat Moosavi. A Robust Evaluation of Probe Robustness: Lessons for Reliable OOD Uncertainty Quantification. EMNLP2026, October 2026.
+- Haruto Yoshida, Keito Kudo, Yoichi Aoki, Ryota Tanaka, Itsumi Saito, Keisuke Sakaguchi, Kentaro Inui. Probing Diagram Representations in Large Vision-Language Models. EMNLP2026, October 2026.
+- Sebastian Gerstner, Hilal AlQuabeh, Kentaro Inui, Hinrich Schuetze. Weakening Neurons: An Input-Output Functionality in Transformers with Outsize Influence. EMNLP2026, October 2026.
+- Kareem Elozeiri, Mervat Abassy, Omar Kallas, Fahim Dalvi, Preslav Nakov, Kentaro Inui, Nadir Durrani. Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs. EMNLP2026 Findings, October 2026.
+- Jinghui Zhang, Lang Gao, Ao Li, Mingzhe Li, Ruihong Zeng, Zirui Song, Kentaro Inui, Xiuying Chen. LITERARYBIGFIVE: Author-Personalized Text Generation in a Unified Interpretable Space. EMNLP2026 Findings, October 2026.
+- Muhammad Cendekia Airlangga, Hilal AlQuabeh, Munachiso Samuel Nwadike, Kentaro Inui. Sparse Long Memory and Transition Bottlenecks Shape Positional Recall in Mamba Language Models. EMNLP2026 Findings, October 2026.
+- Wenzhi Wang, Thiemo Wambsganss, Chenyang Wang, Paul Reisert, Léane Wettstein, Katja Pott, Kenshi Yamaguchi, Machi Shimmei, Roman Rietsche, Surawat Pothong, Naoya Inoue, Kentaro Inui. CAT: A CounterArgument Tutoring System based on Logical Structure Analysis. EMNLP2026 Demo, October 2026.
 - Nurdaulet Mukhituly, Muhammad Cendekia Airlangga, Rifo Ahmad Genadi, Nhi Hoai Doan, Amirbek Djanibekov, Samuel Munachiso Nwadike, Zangir Iklassov, Kentaro Inui. A Unified Safety Subspace Exists in Speech Language Models. Annual Conference of the International Speech Communication Association (Interspeech 2026), September 2026.
 - Ruben Solozabal, Velibor Bojkovic, Hilal Alquabeh, Klea Ziu, Kentaro Inui, Martin Takac. WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention. International Conference on Machine Learning (ICML2026), July 2026.
 - Qin Dai, Benjamin Heinzerling, Kentaro Inui. Cell-Based Representation of Relational Binding in Language Models. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), July 2026.
