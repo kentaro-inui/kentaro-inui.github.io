@@ -3,6 +3,15 @@
 
 **International Conferences** \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
+- Ryohei Kamei, Masaki Sakata, Asahi Hentona, Kentaro Kurihara, Kentaro Inui. The Performance--Perception Gap in Hallucination-Risk Visualization. EACL 2027, March 2027.
+- Masaki Sakata, Takumi Ito, Sho Yokoi, Kentaro Inui, Benjamin Heinzerling. Linear Representations of Hierarchical Concepts in Language Models. EACL 2027, March 2027.
+- Ying Zhang, Benjamin Heinzerling, Dongyuan Li, Kentaro Inui. Understanding Fact Recall in Language Models: Why Two-Stage Training Encourages Memorization but Mixed Training Teaches Knowledge. EACL 2027, March 2027.
+- Kareem Elzeky, Kentaro Inui, Ekaterina Shutova, Thamar Solorio. Same Question, Shared Attention Groups? A Causal Study of Cross-Lingual Generalization. EACL 2027, March 2027.
+- Nhi Hoai Doan, Tatsuya Hiraoka, Munachiso Samuel Nwadike, Kentaro Inui. How Language Models Process Negation in NLI. EACL 2027, March 2027.
+- Ayana Niwa, Masahiro Kaneko, Kentaro Inui. Tracing How Language Models Integrate Temporal Anchors into Factual Recall. EACL 2027, March 2027.
+- Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling. Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics. EACL 2027 Findings, March 2027.
+- Ahmed Oumar El-Shangiti, Abzal Nurgazy, Hilal Alquabeh, Nikolai Rozanov, Kentaro Inui. The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs. EACL 2027 Findings, March 2027.
+- Muhammad Alif Al Hakim, Dmitrii Kuzmin, Carlos Javier Galán Zavala, Tatsuya Hiraoka, Munachiso Samuel Nwadike, Ayana Niwa, Marco Cognetta, David Pohl, Kentaro Inui. Mitigating the Impact of Glitch Tokens via Targeted Retokenization. AACL-IJCNLP 2026, November 2026.
 - Joe Stacey, Hadas Orgad, Kentaro Inui, Benjamin Heinzerling, Nafise Sadat Moosavi. A Robust Evaluation of Probe Robustness: Lessons for Reliable OOD Uncertainty Quantification. EMNLP2026, October 2026.
 - Haruto Yoshida, Keito Kudo, Yoichi Aoki, Ryota Tanaka, Itsumi Saito, Keisuke Sakaguchi, Kentaro Inui. Probing Diagram Representations in Large Vision-Language Models. EMNLP2026, October 2026.
 - Sebastian Gerstner, Hilal AlQuabeh, Kentaro Inui, Hinrich Schuetze. Weakening Neurons: An Input-Output Functionality in Transformers with Outsize Influence. EMNLP2026, October 2026.
